@@ -1,0 +1,3303 @@
+CELL_SAMPLE_ID,CELL_SAMPLE_NAME,CELL_NAME_TYPE,CELL_NAME_TYPE_PRIORITY
+1,697,integrated,10
+2,862,integrated,10
+3,5637,integrated,10
+4,2313287,integrated,10
+5,1321N1,integrated,10
+6,143B,integrated,10
+7,22RV1,integrated,10
+8,253J,integrated,10
+9,253JBV,integrated,10
+10,42MGBA,integrated,10
+11,451LU,integrated,10
+12,501MEL,integrated,10
+13,59M,integrated,10
+14,639V,integrated,10
+15,647V,integrated,10
+16,769P,integrated,10
+17,769PNEO,integrated,10
+18,769PVHL,integrated,10
+19,786O,integrated,10
+20,8305C,integrated,10
+21,8505C,integrated,10
+22,8MGBA,integrated,10
+23,A101D,integrated,10
+24,A1207,integrated,10
+25,A172,integrated,10
+26,A204,integrated,10
+27,A2058,integrated,10
+28,A253,integrated,10
+29,A2780,integrated,10
+30,A375,integrated,10
+31,A3KAW,integrated,10
+32,A427,integrated,10
+33,A498,integrated,10
+34,A4FUK,integrated,10
+35,A549,integrated,10
+36,A549BAXBAKDKO,integrated,10
+37,A673,integrated,10
+38,A7,integrated,10
+39,A704,integrated,10
+40,ABC1,integrated,10
+41,ACCMESO1,integrated,10
+42,ACCS,integrated,10
+43,ACHN,integrated,10
+44,AGS,integrated,10
+46,ALLSIL,integrated,10
+47,AM38,integrated,10
+48,AML193,integrated,10
+49,AMO1,integrated,10
+50,AN3CA,integrated,10
+51,ARP1,integrated,10
+52,ASPC1,integrated,10
+53,AU565,integrated,10
+54,AZ521,integrated,10
+55,BC3C,integrated,10
+56,BCP1,integrated,10
+57,BCPAP,integrated,10
+58,BDCM,integrated,10
+59,BECKER,integrated,10
+60,BEN,integrated,10
+61,BFTC905,integrated,10
+62,BFTC909,integrated,10
+63,BGC823,integrated,10
+64,BHT101,integrated,10
+65,BHY,integrated,10
+66,BICR16,integrated,10
+67,BICR18,integrated,10
+68,BICR22,integrated,10
+69,BICR31,integrated,10
+70,BICR56,integrated,10
+71,BICR6,integrated,10
+72,BJ,integrated,10
+73,BJHTERT,integrated,10
+74,BL41,integrated,10
+75,BL70,integrated,10
+77,BT112,integrated,10
+78,BT131,integrated,10
+79,BT139,integrated,10
+80,BT145,integrated,10
+81,BT147,integrated,10
+82,BT159,integrated,10
+83,BT164,integrated,10
+84,BT172,integrated,10
+85,BT179,integrated,10
+86,BT181,integrated,10
+87,BT182,integrated,10
+88,BT187,integrated,10
+89,BT189,integrated,10
+90,BT20,integrated,10
+91,BT216,integrated,10
+92,BT224,integrated,10
+93,BT228,integrated,10
+94,BT231,integrated,10
+95,BT239,integrated,10
+96,BT248,integrated,10
+97,BT474,integrated,10
+98,BT483,integrated,10
+99,BT549,integrated,10
+100,BV173,integrated,10
+101,BXPC3,integrated,10
+102,C2BBE1,integrated,10
+103,C32,integrated,10
+104,C3A,integrated,10
+105,C8166,integrated,10
+106,CA46,integrated,10
+107,CACO2,integrated,10
+108,CADOES1,integrated,10
+109,CAKI1,integrated,10
+110,CAKI2,integrated,10
+111,CAL120,integrated,10
+112,CAL12T,integrated,10
+113,CAL148,integrated,10
+114,CAL27,integrated,10
+115,CAL29,integrated,10
+116,CAL33,integrated,10
+117,CAL51,integrated,10
+118,CAL54,integrated,10
+119,CAL62,integrated,10
+120,CAL78,integrated,10
+121,CAL851,integrated,10
+122,CALU1,integrated,10
+123,CALU3,integrated,10
+124,CALU6,integrated,10
+125,CAMA1,integrated,10
+126,CAOV3,integrated,10
+127,CAOV4,integrated,10
+128,CAPAN1,integrated,10
+129,CAPAN2,integrated,10
+130,CAS1,integrated,10
+131,CCFSTTG1,integrated,10
+132,CCK81,integrated,10
+133,CCRFCEM,integrated,10
+134,CCRFHSB2,integrated,10
+135,CCRFSB,integrated,10
+137,CEMC1,integrated,10
+138,CFPAC1,integrated,10
+139,CGTHW1,integrated,10
+140,CH157MN,integrated,10
+141,CHAGOK1,integrated,10
+142,CHL1,integrated,10
+143,CHP126,integrated,10
+144,CHP212,integrated,10
+145,CI1,integrated,10
+146,CJM,integrated,10
+147,CL11,integrated,10
+148,CL14,integrated,10
+149,CL34,integrated,10
+150,CL40,integrated,10
+151,CMK,integrated,10
+152,CMK115,integrated,10
+153,CMK86,integrated,10
+154,CMLT1,integrated,10
+155,COLO201,integrated,10
+156,COLO205,integrated,10
+157,COLO320,integrated,10
+158,COLO668,integrated,10
+159,COLO677,integrated,10
+160,COLO678,integrated,10
+161,COLO679,integrated,10
+162,COLO680N,integrated,10
+163,COLO684,integrated,10
+164,COLO699,integrated,10
+165,COLO704,integrated,10
+166,COLO741,integrated,10
+167,COLO775,integrated,10
+168,COLO783,integrated,10
+169,COLO792,integrated,10
+170,COLO800,integrated,10
+171,COLO818,integrated,10
+172,COLO829,integrated,10
+173,COLO849,integrated,10
+174,CORL105,integrated,10
+175,CORL23,integrated,10
+176,CORL24,integrated,10
+177,CORL26,integrated,10
+178,CORL279,integrated,10
+179,CORL311,integrated,10
+180,CORL47,integrated,10
+181,CORL51,integrated,10
+182,CORL88,integrated,10
+183,CORL95,integrated,10
+184,COV318,integrated,10
+185,COV362,integrated,10
+186,COV434,integrated,10
+187,COV504,integrated,10
+188,COV644,integrated,10
+189,CPCN,integrated,10
+190,CW2,integrated,10
+191,CW9019,integrated,10
+192,CDDB:000192,CDDB id,410
+193,D283MED,integrated,10
+195,D341MED,integrated,10
+196,D384,integrated,10
+197,D425,integrated,10
+198,D458,integrated,10
+199,D556,integrated,10
+200,D8817,integrated,10
+201,DANG,integrated,10
+202,DAOY,integrated,10
+203,DAUDI,integrated,10
+204,DB,integrated,10
+205,DBTRG05MG,integrated,10
+206,DEL,integrated,10
+207,DERL7,integrated,10
+208,DETROIT562,integrated,10
+209,DFCI024,integrated,10
+210,DG75,integrated,10
+211,DKMG,integrated,10
+212,DLD1,integrated,10
+213,DLD1BAXBAKDKO,integrated,10
+214,DM3,integrated,10
+215,DMS114,integrated,10
+216,DMS153,integrated,10
+217,DMS273,integrated,10
+218,DMS454,integrated,10
+219,DMS53,integrated,10
+220,DMS79,integrated,10
+221,DND41,integrated,10
+222,DOHH2,integrated,10
+223,DOV13,integrated,10
+224,DOV13HEK293,integrated,10
+225,DU145,integrated,10
+226,DU4475,integrated,10
+227,DV90,integrated,10
+228,EB1,integrated,10
+229,EB2,integrated,10
+230,EBC1,integrated,10
+231,ECC10,integrated,10
+232,ECC12,integrated,10
+233,ECGI10,integrated,10
+234,EFE184,integrated,10
+235,EFM19,integrated,10
+236,EFM192A,integrated,10
+237,EFO21,integrated,10
+238,EFO27,integrated,10
+239,EHEB,integrated,10
+240,EJM,integrated,10
+241,EKVX,integrated,10
+242,EM2,integrated,10
+243,EN,integrated,10
+244,EOL1,integrated,10
+246,EPLC272H,integrated,10
+247,ES2,integrated,10
+248,ESS1,integrated,10
+249,EVSAT,integrated,10
+250,EW8,integrated,10
+251,EWS502,integrated,10
+252,EWS834,integrated,10
+253,F36P,integrated,10
+254,F5,integrated,10
+255,FADU,integrated,10
+256,FLO,integrated,10
+257,FTC133,integrated,10
+258,FTC238,integrated,10
+259,FU97,integrated,10
+260,FUDDLS1,integrated,10
+261,FUOV1,integrated,10
+262,G292CLONEA141B1,integrated,10
+263,G361,integrated,10
+264,G401,integrated,10
+265,G402,integrated,10
+266,GA10,integrated,10
+267,GA10CLONE4,integrated,10
+268,GAMG,integrated,10
+269,GB1,integrated,10
+270,GCIY,integrated,10
+271,GCT,integrated,10
+272,GDM1,integrated,10
+274,GI1,integrated,10
+275,GIST430,integrated,10
+276,GIST48,integrated,10
+277,GIST882,integrated,10
+278,GIST882F,integrated,10
+279,GLC82,integrated,10
+280,GMS10,integrated,10
+281,GOS3,integrated,10
+282,GP2D,integrated,10
+283,GRANTA519,integrated,10
+284,GRM,integrated,10
+285,GSS,integrated,10
+286,GSU,integrated,10
+287,NCIH128,integrated,10
+288,NCIH187,integrated,10
+289,NCIH2107,integrated,10
+290,NCIH292,integrated,10
+291,H4,integrated,10
+292,HAED,integrated,10
+293,HARA,integrated,10
+294,HCC1008,integrated,10
+295,HCC1143,integrated,10
+296,HCC1171,integrated,10
+297,HCC1187,integrated,10
+298,HCC1195,integrated,10
+299,HCC1359,integrated,10
+300,HCC1395,integrated,10
+301,HCC1419,integrated,10
+302,HCC1428,integrated,10
+303,HCC1438,integrated,10
+304,HCC15,integrated,10
+305,HCC1500,integrated,10
+306,HCC1569,integrated,10
+307,HCC1588,integrated,10
+308,HCC1599,integrated,10
+309,HCC1806,integrated,10
+310,HCC1833,integrated,10
+311,HCC1897,integrated,10
+312,HCC193,integrated,10
+313,HCC1937,integrated,10
+314,HCC1954,integrated,10
+315,HCC202,integrated,10
+316,HCC2108,integrated,10
+317,HCC2157,integrated,10
+318,HCC2218,integrated,10
+319,HCC2279,integrated,10
+320,HCC2373,integrated,10
+321,HCC2429,integrated,10
+322,HCC2450,integrated,10
+323,HCC2814,integrated,10
+324,HCC2935,integrated,10
+325,HCC2998,integrated,10
+326,HCC33,integrated,10
+327,HCC364,integrated,10
+328,HCC366,integrated,10
+330,HCC38,integrated,10
+331,HCC4006,integrated,10
+332,HCC44,integrated,10
+334,HCC460,integrated,10
+335,HCC461,integrated,10
+336,HCC515,integrated,10
+337,HCC56,integrated,10
+338,HCC70,integrated,10
+339,HCC78,integrated,10
+340,HCC827,integrated,10
+341,HCC827GR5,integrated,10
+342,HCC95,integrated,10
+343,HCT116,integrated,10
+344,HCT116G9B,integrated,10
+345,HCT15,integrated,10
+346,HCT8,integrated,10
+347,HDLM2,integrated,10
+348,HDMYZ,integrated,10
+349,HDQP1,integrated,10
+350,HEC108,integrated,10
+351,HEC151,integrated,10
+352,HEC1A,integrated,10
+353,HEC1B,integrated,10
+354,HEC251,integrated,10
+355,HEC265,integrated,10
+356,HEC50B,integrated,10
+357,HEC59,integrated,10
+358,HEC6,integrated,10
+359,HEK293,integrated,10
+360,HEK293DOV13,integrated,10
+361,HEKTE,integrated,10
+362,HEL,integrated,10
+363,HEL9217,integrated,10
+364,HELA,integrated,10
+365,HEP3B217,integrated,10
+366,HEPG2,integrated,10
+367,HEYA8,integrated,10
+368,HGC27,integrated,10
+369,HH,integrated,10
+370,HK2,integrated,10
+371,HL60,integrated,10
+372,HLC1,integrated,10
+373,HLE,integrated,10
+374,HLF,integrated,10
+375,HLFA,integrated,10
+376,HMC18,integrated,10
+377,HMCB,integrated,10
+378,HMEL,integrated,10
+379,HN,integrated,10
+380,HNT34,integrated,10
+381,HOP62,integrated,10
+382,HOP92,integrated,10
+383,HOS,integrated,10
+384,HPAC,integrated,10
+385,HPAFII,integrated,10
+386,HPBALL,integrated,10
+387,HRT18,integrated,10
+388,HS172T,integrated,10
+389,HS228T,integrated,10
+390,HS229T,integrated,10
+391,HS255T,integrated,10
+392,HS257T,integrated,10
+393,HS274T,integrated,10
+394,HS281T,integrated,10
+395,HS294T,integrated,10
+396,HS343T,integrated,10
+397,HS571T,integrated,10
+398,HS574T,integrated,10
+399,HS578BST,integrated,10
+400,HS578T,integrated,10
+401,HS5T,integrated,10
+402,HS600T,integrated,10
+403,HS604T,integrated,10
+404,HS606T,integrated,10
+405,HS611T,integrated,10
+406,HS616T,integrated,10
+407,HS618T,integrated,10
+408,HS675T,integrated,10
+409,HS683,integrated,10
+410,HS688AT,integrated,10
+411,HS695T,integrated,10
+412,HS698T,integrated,10
+413,HS706T,integrated,10
+414,HS729,integrated,10
+415,HS737T,integrated,10
+416,HS739T,integrated,10
+417,HS742T,integrated,10
+418,HS746T,integrated,10
+420,HS751T,integrated,10
+421,HS766T,integrated,10
+422,HS819T,integrated,10
+423,HS821T,integrated,10
+424,HS822T,integrated,10
+425,HS834T,integrated,10
+426,HS839T,integrated,10
+427,HS840T,integrated,10
+428,HS852T,integrated,10
+429,HS863T,integrated,10
+430,HS870T,integrated,10
+431,HS888LU,integrated,10
+432,HS888T,integrated,10
+433,HS895SK,integrated,10
+434,HS895T,integrated,10
+435,HS926T,integrated,10
+436,HS934T,integrated,10
+437,HS936T,integrated,10
+438,HS939T,integrated,10
+439,HS940T,integrated,10
+440,HS944T,integrated,10
+441,HSC2,integrated,10
+442,HSC3,integrated,10
+443,HSC4,integrated,10
+444,HSTS,integrated,10
+445,HT,integrated,10
+446,HT1080,integrated,10
+447,HT115,integrated,10
+448,HT1197,integrated,10
+449,HT1376,integrated,10
+450,HT144,integrated,10
+451,HT29,integrated,10
+452,HT55,integrated,10
+453,HTCC3,integrated,10
+454,HTK,integrated,10
+455,HUCCT1,integrated,10
+456,HUG1N,integrated,10
+457,HUH1,integrated,10
+458,HUH28,integrated,10
+459,HUH6,integrated,10
+460,HUH7,integrated,10
+461,HUNS1,integrated,10
+462,HUPT3,integrated,10
+463,HUPT4,integrated,10
+464,HUT102,integrated,10
+465,HUT78,integrated,10
+466,HUTU80,integrated,10
+467,HUVEC,integrated,10
+468,IA5,integrated,10
+469,IALM,integrated,10
+470,IGR1,integrated,10
+471,IGR37,integrated,10
+472,IGR39,integrated,10
+473,IGROV1,integrated,10
+474,IM95,integrated,10
+475,IMR32,integrated,10
+476,INA6,integrated,10
+477,IOMMLEE,integrated,10
+478,IPC298,integrated,10
+479,ISHIKAWAHERAKLIO02ER,integrated,10
+480,ISTMES1,integrated,10
+481,ISTMES2,integrated,10
+482,J82,integrated,10
+483,JCRB0262,integrated,10
+484,JEKO1,integrated,10
+485,JHESOAD1,integrated,10
+486,JHH1,integrated,10
+487,JHH2,integrated,10
+488,JHH4,integrated,10
+489,JHH5,integrated,10
+490,JHH6,integrated,10
+491,JHH7,integrated,10
+492,JHOC5,integrated,10
+493,JHOM1,integrated,10
+494,JHOM2B,integrated,10
+495,JHOS2,integrated,10
+496,JHOS4,integrated,10
+497,JHUEM1,integrated,10
+498,JHUEM2,integrated,10
+499,JHUEM3,integrated,10
+500,JHUEM7,integrated,10
+501,JIMT1,integrated,10
+502,JJN3,integrated,10
+503,JK1,integrated,10
+504,JL1,integrated,10
+505,JM1,integrated,10
+506,JMSU1,integrated,10
+507,JR,integrated,10
+508,JURKAT,integrated,10
+509,JURLMK1,integrated,10
+510,JVM2,integrated,10
+511,JVM3,integrated,10
+512,K029AX,integrated,10
+513,K562,integrated,10
+514,KALS1,integrated,10
+515,KARPAS299,integrated,10
+516,KARPAS422,integrated,10
+517,KARPAS620,integrated,10
+518,KASUMI1,integrated,10
+519,KASUMI2,integrated,10
+520,KASUMI4,integrated,10
+521,KASUMI6,integrated,10
+522,KATOIII,integrated,10
+523,KCIMOH1,integrated,10
+524,KCL22,integrated,10
+525,KE37,integrated,10
+526,KE39,integrated,10
+527,KE97,integrated,10
+528,KELLY,integrated,10
+529,KG1,integrated,10
+530,KG1C,integrated,10
+531,KHM1B,integrated,10
+532,KIJK,integrated,10
+533,KINGS1,integrated,10
+534,KLE,integrated,10
+535,KLM1,integrated,10
+536,KM12,integrated,10
+537,KMBC2,integrated,10
+538,KMH2HAEMATOPOIETICANDLYMPHOIDTISSUE,integrated,10
+539,KMM1,integrated,10
+540,KMRC1,integrated,10
+541,KMRC2,integrated,10
+542,KMRC20,integrated,10
+543,KMRC3,integrated,10
+544,KMS1,integrated,10
+545,KMS11,integrated,10
+546,KMS12BM,integrated,10
+547,KMS12PE,integrated,10
+548,KMS18,integrated,10
+549,KMS20,integrated,10
+550,KMS21BM,integrated,10
+551,KMS26,integrated,10
+552,KMS27,integrated,10
+553,KMS28BM,integrated,10
+554,KMS28PE,integrated,10
+555,KMS34,integrated,10
+556,KNS42,integrated,10
+557,KNS60,integrated,10
+558,KNS62,integrated,10
+559,KNS81,integrated,10
+560,KO51,integrated,10
+561,KO52,integrated,10
+562,KOPN,integrated,10
+563,KOPN8,integrated,10
+564,KP1N,integrated,10
+565,KP1NL,integrated,10
+566,KP2,integrated,10
+567,KP3,integrated,10
+568,KP4,integrated,10
+569,KPL1,integrated,10
+570,KPNRTBM1,integrated,10
+571,KPNSI9S,integrated,10
+572,KPNYN,integrated,10
+573,KRJ-I,CTD2 Dashboard,40
+574,KS1,integrated,10
+575,KU1919,integrated,10
+576,KU812,integrated,10
+577,KURAMOCHI,integrated,10
+578,KYM1,integrated,10
+579,KYO1,integrated,10
+580,KYSE140,integrated,10
+581,KYSE150,integrated,10
+582,KYSE180,integrated,10
+583,KYSE270,integrated,10
+584,KYSE30,integrated,10
+585,KYSE410,integrated,10
+586,KYSE450,integrated,10
+587,KYSE510,integrated,10
+588,KYSE520,integrated,10
+589,KYSE70,integrated,10
+590,L1236,integrated,10
+591,L33,integrated,10
+592,L363,integrated,10
+593,L428,integrated,10
+594,L540,integrated,10
+595,LAMA84,integrated,10
+596,LC1,integrated,10
+597,LC1F,integrated,10
+598,LC1SQSF,integrated,10
+599,LCLC103H,integrated,10
+600,LCLC97TM1,integrated,10
+601,LI7,integrated,10
+602,LK2,integrated,10
+603,LMSU,integrated,10
+604,LN18,integrated,10
+605,LN215,integrated,10
+606,LN229,integrated,10
+607,LN235,integrated,10
+608,LN319,integrated,10
+609,LN340,integrated,10
+610,LN382,integrated,10
+611,LN405,integrated,10
+612,LN414,integrated,10
+613,LN428,integrated,10
+614,LN443,integrated,10
+615,LN444,integrated,10
+616,LN464,integrated,10
+618,LNCAPCLONEFGC,integrated,10
+619,LNZ308,integrated,10
+620,LOUCY,integrated,10
+621,LOUNH91,integrated,10
+622,LOVO,integrated,10
+623,LOXIMVI,integrated,10
+624,LP1,integrated,10
+625,LP6,integrated,10
+626,LS1034,integrated,10
+627,LS123,integrated,10
+628,LS141,integrated,10
+629,LS174T,integrated,10
+630,LS180,integrated,10
+631,LS411N,integrated,10
+632,LS513,integrated,10
+633,LU65,integrated,10
+634,LU99,integrated,10
+635,LUDLU1,integrated,10
+636,LXF289,integrated,10
+637,M059J,integrated,10
+638,M059K,integrated,10
+639,M07E,integrated,10
+640,M14,integrated,10
+641,MALME3M,integrated,10
+642,CDDB:000642,CDDB id,410
+643,MC116,integrated,10
+644,MCAS,integrated,10
+645,MCF10A,integrated,10
+646,MCF7,integrated,10
+647,MDAMB134VI,integrated,10
+648,MDAMB157,integrated,10
+649,MDAMB175VII,integrated,10
+650,MDAMB231,integrated,10
+651,MDAMB361,integrated,10
+652,MDAMB415,integrated,10
+653,MDAMB435,integrated,10
+654,MDAMB4355,integrated,10
+655,MDAMB435S,integrated,10
+656,MDAMB436,integrated,10
+657,MDAMB453,integrated,10
+658,MDAMB468,integrated,10
+659,MDAN,integrated,10
+660,MDAPCA2B,integrated,10
+661,MDST8,integrated,10
+662,ME1,integrated,10
+663,MEC1,integrated,10
+664,MEC2,integrated,10
+665,MEG01,integrated,10
+666,MELHO,integrated,10
+667,MELJUSO,integrated,10
+668,MESSA,integrated,10
+669,MEWO,integrated,10
+670,MFE280,integrated,10
+671,MFE296,integrated,10
+672,MFE319,integrated,10
+673,MG63,integrated,10
+674,MHHCALL2,integrated,10
+675,MHHCALL3,integrated,10
+676,MHHCALL4,integrated,10
+677,MHHES1,integrated,10
+678,MHHNB11,integrated,10
+679,MIAPACA2,integrated,10
+680,MINO,integrated,10
+681,MJ,integrated,10
+682,MKN1,integrated,10
+683,MKN45,integrated,10
+684,MKN7,integrated,10
+685,MKN74,integrated,10
+686,ML1,integrated,10
+687,ML2,integrated,10
+688,MM1S,integrated,10
+689,MMAS,integrated,10
+690,MOGGCCM,integrated,10
+691,MOGGUVW,integrated,10
+692,MOLM13,integrated,10
+693,MOLM16,integrated,10
+694,MOLM6,integrated,10
+695,MOLP2,integrated,10
+696,MOLP8,integrated,10
+697,MOLT13,integrated,10
+698,MOLT16,integrated,10
+699,MOLT3,integrated,10
+700,MOLT4,integrated,10
+701,MONOMAC1,integrated,10
+702,MONOMAC6,integrated,10
+703,MORCPR,integrated,10
+704,MOTN1,integrated,10
+705,MPP89,integrated,10
+706,MSTO211H,integrated,10
+707,MUTZ2,integrated,10
+708,MUTZ3,integrated,10
+709,MUTZ5,integrated,10
+710,MV411,integrated,10
+712,NA12878,integrated,10
+713,NA18508,integrated,10
+714,NA19143,integrated,10
+715,NA19153,integrated,10
+716,NALM1,integrated,10
+717,NALM19,integrated,10
+718,NALM6,integrated,10
+719,NAMALWA,integrated,10
+720,NB1,integrated,10
+721,NB4,integrated,10
+722,NC37,integrated,10
+723,NCCSTCK140,integrated,10
+725,NCIADRRES,integrated,10
+817,NCIH322M,integrated,10
+835,NCIH676B,integrated,10
+851,NCO2,integrated,10
+852,NH6,integrated,10
+853,NIBRI,integrated,10
+855,NMCG1,integrated,10
+856,NO10,integrated,10
+857,NO11,integrated,10
+858,NOMO1,integrated,10
+859,idCell:834,integrated,10
+860,idCell:1024,integrated,10
+861,idCell:1025,integrated,10
+862,idCell:1028,integrated,10
+863,idCell:1030,integrated,10
+864,idCell:1052,integrated,10
+865,idCell:1188,integrated,10
+866,idCell:933,integrated,10
+867,idCell:934,integrated,10
+868,idCell:935,integrated,10
+869,idCell:1016,integrated,10
+870,idCell:1020,integrated,10
+871,idCell:1021,integrated,10
+872,idCell:1022,integrated,10
+873,idCell:1023,integrated,10
+874,NUDHL1,integrated,10
+875,NUDUL1,integrated,10
+876,NUGC2,integrated,10
+877,NUGC3,integrated,10
+878,NUGC4,integrated,10
+879,OAW28,integrated,10
+880,OAW42,integrated,10
+881,OC314,integrated,10
+882,OC315,integrated,10
+883,OC316,integrated,10
+884,OCIAML2,integrated,10
+885,OCIAML3,integrated,10
+886,OCIAML5,integrated,10
+887,OCILY10,integrated,10
+888,OCILY19,integrated,10
+889,OCILY3,integrated,10
+890,OCIM1,integrated,10
+891,OCIMY5,integrated,10
+892,OCIMY7,integrated,10
+893,OCUM1,integrated,10
+894,OE19,integrated,10
+895,OE21,integrated,10
+896,OE33,integrated,10
+897,OELE,integrated,10
+898,ONCODG1,integrated,10
+899,ONS76,integrated,10
+900,OPM1,integrated,10
+901,OPM2,integrated,10
+902,OSRC2,integrated,10
+903,OUMS23,integrated,10
+904,OUMS27,integrated,10
+905,OV56,integrated,10
+906,OV7,integrated,10
+907,OV90,integrated,10
+908,OVCAR4,integrated,10
+909,OVCAR5,integrated,10
+910,OVCAR8,integrated,10
+911,OVISE,integrated,10
+912,OVK18,integrated,10
+913,OVKATE,integrated,10
+914,OVMANA,integrated,10
+915,OVSAHO,integrated,10
+916,OVTOKO,integrated,10
+917,P12ICHIKAWA,integrated,10
+918,P31FUJ,integrated,10
+919,P3HR1,integrated,10
+920,PANC0203,integrated,10
+921,PANC0213,integrated,10
+922,PANC0327,integrated,10
+923,PANC0403,integrated,10
+924,PANC0504,integrated,10
+925,PANC0813,integrated,10
+926,PANC1,integrated,10
+927,PANC1005,integrated,10
+928,PATU8902,integrated,10
+929,PATU8988S,integrated,10
+930,PATU8988T,integrated,10
+931,PC14,integrated,10
+932,PC3,integrated,10
+933,PC9,integrated,10
+934,PCM6,integrated,10
+935,PECAPJ15,integrated,10
+937,PECAPJ34CLONEC12,integrated,10
+939,PECAPJ41CLONED2,integrated,10
+940,PECAPJ49,integrated,10
+941,PEER,integrated,10
+942,PF382,integrated,10
+943,PFEIFFER,integrated,10
+944,PK1,integrated,10
+945,PK45H,integrated,10
+946,PK59,integrated,10
+947,PL21,integrated,10
+948,PL45,integrated,10
+949,PLB985,integrated,10
+950,PLCPRF5,integrated,10
+951,PRECLH,integrated,10
+952,PSN1,integrated,10
+953,PSTS,integrated,10
+954,QGP1,integrated,10
+955,RAJI,integrated,10
+956,RCC10RGB,integrated,10
+957,RCC4,integrated,10
+958,RCHACV,integrated,10
+959,RCK8,integrated,10
+960,RCM1,integrated,10
+961,RD,integrated,10
+962,RDD8107,integrated,10
+963,RDES,integrated,10
+964,REC1,integrated,10
+965,REH,integrated,10
+966,RERFGC1B,integrated,10
+967,RERFLCAD1,integrated,10
+968,RERFLCAD2,integrated,10
+969,RERFLCAI,integrated,10
+970,RERFLCKJ,integrated,10
+971,RERFLCMS,integrated,10
+972,RERFLCSQ1,integrated,10
+973,RH18,integrated,10
+974,RH28,integrated,10
+975,RH30,integrated,10
+976,RH41,integrated,10
+977,RI1,integrated,10
+978,RKN,integrated,10
+979,RKO,integrated,10
+980,RL,integrated,10
+981,RL952,integrated,10
+982,CDDB:000982,CDDB id,410
+983,RMGI,integrated,10
+984,RMS559,integrated,10
+985,RMUGS,integrated,10
+986,RPE101,integrated,10
+987,RPE1A4D,integrated,10
+988,RPE1T,integrated,10
+989,RPE74,integrated,10
+990,RPMI6666,integrated,10
+991,RPMI7951,integrated,10
+992,RPMI8226,integrated,10
+993,RPMI8226S,integrated,10
+994,RPMI8402,integrated,10
+995,RS411,integrated,10
+996,RS5,integrated,10
+997,RT112,integrated,10
+998,RT11284,integrated,10
+999,RT4,integrated,10
+1000,RVH421,integrated,10
+1001,RXF393,integrated,10
+1002,S117,integrated,10
+1003,SALE,integrated,10
+1004,SAOS2,integrated,10
+1005,SBC5,integrated,10
+1006,SCABER,integrated,10
+1007,SCC15,integrated,10
+1008,SCC25,integrated,10
+1009,SCC4,integrated,10
+1010,SCC9,integrated,10
+1011,SCLC21H,integrated,10
+1012,SCMCRM2,integrated,10
+1013,SEM,integrated,10
+1014,SET2,integrated,10
+1015,SF126,integrated,10
+1016,SF172,integrated,10
+1017,SF268,integrated,10
+1018,SF295,integrated,10
+1019,SF539,integrated,10
+1020,SF763,integrated,10
+1021,SF767,integrated,10
+1022,SF782,integrated,10
+1023,SF8657,integrated,10
+1024,SH10TC,integrated,10
+1025,SH4,integrated,10
+1026,SHP77,integrated,10
+1027,SHSY5Y,integrated,10
+1028,SIGM5,integrated,10
+1029,SIHA,integrated,10
+1030,SIMA,integrated,10
+1031,SJRH30,integrated,10
+1032,SJSA1,integrated,10
+1033,SKBR3,integrated,10
+1034,SKCO1,integrated,10
+1035,SKES1,integrated,10
+1036,SKHEP1,integrated,10
+1037,SKLMS1,integrated,10
+1038,SKLU1,integrated,10
+1039,SKM1,integrated,10
+1040,SKMEL1,integrated,10
+1041,SKMEL2,integrated,10
+1042,SKMEL24,integrated,10
+1043,SKMEL28,integrated,10
+1044,SKMEL3,integrated,10
+1045,SKMEL30,integrated,10
+1046,SKMEL31,integrated,10
+1047,SKMEL5,integrated,10
+1048,SKMES1,integrated,10
+1049,SKMM1,integrated,10
+1050,SKMM2,integrated,10
+1051,SKNAS,integrated,10
+1052,SKNBE2,integrated,10
+1053,SKNDZ,integrated,10
+1054,SKNEP1,integrated,10
+1055,SKNFI,integrated,10
+1056,SKNMC,integrated,10
+1057,SKNO1,integrated,10
+1058,SKNSH,integrated,10
+1059,SKOV3,integrated,10
+1060,SKRC20,integrated,10
+1061,SKRC31,integrated,10
+1062,SKRC52,integrated,10
+1063,SKUT1,integrated,10
+1064,SLR20,integrated,10
+1065,SLR21,integrated,10
+1066,SLR23,integrated,10
+1067,SLR24,integrated,10
+1068,SLR25,integrated,10
+1069,SLR26,integrated,10
+1070,SMSCTR,integrated,10
+1071,SN12C,integrated,10
+1072,SNB19,integrated,10
+1073,SNB75,integrated,10
+1074,SNGM,integrated,10
+1075,SNU1,integrated,10
+1076,SNU1033,integrated,10
+1077,SNU1040,integrated,10
+1078,SNU1041,integrated,10
+1079,SNU1066,integrated,10
+1080,SNU1076,integrated,10
+1081,SNU1077,integrated,10
+1082,SNU1079,integrated,10
+1083,SNU1105,integrated,10
+1084,SNU119,integrated,10
+1085,SNU1196,integrated,10
+1086,SNU1197,integrated,10
+1087,SNU1214,integrated,10
+1088,SNU1272,integrated,10
+1089,SNU16,integrated,10
+1090,SNU175,integrated,10
+1091,SNU182,integrated,10
+1092,SNU201,integrated,10
+1093,SNU213,integrated,10
+1094,SNU216,integrated,10
+1095,SNU245,integrated,10
+1096,SNU283,integrated,10
+1097,SNU308,integrated,10
+1098,SNU324,integrated,10
+1099,SNU349,integrated,10
+1100,SNU387,integrated,10
+1101,SNU398,integrated,10
+1102,SNU407,integrated,10
+1103,SNU410,integrated,10
+1104,SNU423,integrated,10
+1105,SNU449,integrated,10
+1106,SNU46,integrated,10
+1107,SNU466,integrated,10
+1108,SNU475,integrated,10
+1109,SNU478,integrated,10
+1110,SNU489,integrated,10
+1111,SNU5,integrated,10
+1112,SNU503,integrated,10
+1113,SNU520,integrated,10
+1114,SNU601,integrated,10
+1115,SNU61,integrated,10
+1116,SNU620,integrated,10
+1117,SNU626,integrated,10
+1118,SNU668,integrated,10
+1119,SNU685,integrated,10
+1120,SNU719,integrated,10
+1121,SNU738,integrated,10
+1122,SNU761,integrated,10
+1123,SNU8,integrated,10
+1124,SNU81,integrated,10
+1125,SNU840,integrated,10
+1126,SNU869,integrated,10
+1127,SNU878,integrated,10
+1128,SNU886,integrated,10
+1129,SNU899,integrated,10
+1130,SNUC1,integrated,10
+1131,SNUC2A,integrated,10
+1132,SNUC2B,integrated,10
+1133,SNUC4,integrated,10
+1134,SNUC5,integrated,10
+1135,SQ1,integrated,10
+1136,SR786,integrated,10
+1137,ST486,integrated,10
+1138,SU8686,integrated,10
+1139,SUDHL1,integrated,10
+1140,SUDHL10,integrated,10
+1141,SUDHL4,integrated,10
+1142,SUDHL5,integrated,10
+1143,SUDHL6,integrated,10
+1144,SUDHL8,integrated,10
+1145,SUIT2,integrated,10
+1146,SUPB15,integrated,10
+1147,SUPHD1,integrated,10
+1148,SUPM2,integrated,10
+1149,SUPT1,integrated,10
+1150,SUPT11,integrated,10
+1151,SW1088,integrated,10
+1152,SW1116,integrated,10
+1153,SW1271,integrated,10
+1154,SW1353,integrated,10
+1155,SW1417,integrated,10
+1156,SW1463,integrated,10
+1157,SW1573,integrated,10
+1158,SW1710,integrated,10
+1159,SW1783,integrated,10
+1160,SW1990,integrated,10
+1161,SW403,integrated,10
+1162,SW48,integrated,10
+1163,SW480,integrated,10
+1164,SW48BAXBAKDKO,integrated,10
+1165,SW579,integrated,10
+1166,SW620,integrated,10
+1167,SW780,integrated,10
+1168,SW837,integrated,10
+1169,SW900,integrated,10
+1170,SW948,integrated,10
+1171,T173,integrated,10
+1172,T24,integrated,10
+1173,T3M10,integrated,10
+1174,T3M4,integrated,10
+1175,T47D,integrated,10
+1176,T84,integrated,10
+1177,T98G,integrated,10
+1178,TALL1,integrated,10
+1179,TC32,integrated,10
+1180,TC71,integrated,10
+1181,TTC466,integrated,10
+1182,TCCPAN2,integrated,10
+1183,TCCSUP,integrated,10
+1184,TE1,integrated,10
+1185,TE10,integrated,10
+1186,TE11,integrated,10
+1187,TE125T,integrated,10
+1188,TE14,integrated,10
+1189,TE15,integrated,10
+1190,TE159T,integrated,10
+1191,TE4,integrated,10
+1192,TE441T,integrated,10
+1193,TE5,integrated,10
+1194,TE6,integrated,10
+1195,TE617T,integrated,10
+1196,TE8,integrated,10
+1197,TE9,integrated,10
+1198,TEN,integrated,10
+1199,TF1,integrated,10
+1200,TGBC11TKB,integrated,10
+1201,THP1,integrated,10
+1202,TIG3TD,integrated,10
+1203,TK10,integrated,10
+1204,TM31,integrated,10
+1205,TO175T,integrated,10
+1206,TOLEDO,integrated,10
+1207,TOM1,integrated,10
+1208,TOV112D,integrated,10
+1209,TOV21G,integrated,10
+1210,TT2609C02,integrated,10
+1211,TTOESOPHAGUS,integrated,10
+1212,TTTHYROID,integrated,10
+1213,TUHR10TKB,integrated,10
+1214,TUHR14TKB,integrated,10
+1215,TUHR3TKB,integrated,10
+1216,TUHR4TKB,integrated,10
+1217,TYKNU,integrated,10
+1218,U118MG,integrated,10
+1219,U138,integrated,10
+1220,U138MG,integrated,10
+1221,U178,integrated,10
+1222,U251,integrated,10
+1223,U251MG,integrated,10
+1224,U266,integrated,10
+1225,U266B1,integrated,10
+1226,U2OS,integrated,10
+1227,U343,integrated,10
+1228,U345,integrated,10
+1229,U373MG,integrated,10
+1230,U87MG,integrated,10
+1231,U937,integrated,10
+1232,UACC257,integrated,10
+1233,UACC62,integrated,10
+1234,UACC812,integrated,10
+1235,UACC893,integrated,10
+1236,UBLC1,integrated,10
+1237,CDDB:1237,CDDB id,410
+1239,UMRC2,integrated,10
+1240,UMRC6,integrated,10
+1241,UMRC6NEO,integrated,10
+1242,UMRC6VHL,integrated,10
+1243,UMUC1,integrated,10
+1244,UMUC3,integrated,10
+1245,UO31,integrated,10
+1246,UOK101,integrated,10
+1247,UT7,integrated,10
+1248,UTMC2,integrated,10
+1249,VCAP,integrated,10
+1250,VMCUB1,integrated,10
+1251,VMRCLCD,integrated,10
+1252,VMRCLCP,integrated,10
+1253,VMRCRCW,integrated,10
+1254,VMRCRCZ,integrated,10
+1255,WM115,integrated,10
+1256,WM1799,integrated,10
+1257,WM1930,integrated,10
+1258,WM1960,integrated,10
+1259,WM1976,integrated,10
+1260,WM2664,integrated,10
+1261,WM3163,integrated,10
+1262,WM3244,integrated,10
+1263,WM3453,integrated,10
+1264,WM3506,integrated,10
+1265,WM3627,integrated,10
+1266,WM3629,integrated,10
+1267,WM3670,integrated,10
+1268,WM3682,integrated,10
+1269,WM3702,integrated,10
+1270,WM793,integrated,10
+1271,WM88,integrated,10
+1272,WM939B,integrated,10
+1273,WM983B,integrated,10
+1274,WSUDLCL2,integrated,10
+1275,XG1,integrated,10
+1276,XG6,integrated,10
+1277,YAPC,integrated,10
+1278,YD10B,integrated,10
+1279,YD15,integrated,10
+1280,YD38,integrated,10
+1281,YD8,integrated,10
+1282,YH13,integrated,10
+1283,YKG1,integrated,10
+1284,YMB1,integrated,10
+1285,ZR751,integrated,10
+1286,ZR7530,integrated,10
+35807,1205LU,integrated,10
+107362,1794,integrated,10
+107522,201T,integrated,10
+107962,HEK293T,CTD2 Dashboard,40
+108079,NCI322,integrated,10
+108227,380,UT Southwestern,100
+118487,A388,integrated,10
+118494,A431,integrated,10
+118757,ACN,integrated,10
+118925,ALLPO,integrated,10
+119286,ARH77,integrated,10
+119405,ATN1,integrated,10
+119707,BALL1,integrated,10
+119828,BB30HNC,integrated,10
+119841,BB49HNC,integrated,10
+119847,BB65RCC,integrated,10
+119876,BC3,integrated,10
+119940,BE13,integrated,10
+120126,BJAB,integrated,10
+120128,BL2,integrated,10
+120689,C10,integrated,10
+120710,C106,integrated,10
+120774,C125PM,integrated,10
+120845,C33A,integrated,10
+120860,C4I,integrated,10
+120875,C70,integrated,10
+120876,C75,integrated,10
+120881,C80,integrated,10
+120884,C84,integrated,10
+120935,C99,integrated,10
+121001,CA922,integrated,10
+121076,CAL39,integrated,10
+121077,CAL72,integrated,10
+121128,CAR1,integrated,10
+121158,CASKI,integrated,10
+121171,CB33,CTD2 Dashboard,40
+121208,CCSW1,integrated,10
+121219,CEMC2,integrated,10
+121611,CHLA90,integrated,10
+121805,COLO320HSR,integrated,10
+121808,COLO824,integrated,10
+122016,COR-L96CAR,UT Southwestern,100
+122052,CP50MELB,integrated,10
+122054,CP66MEL,integrated,10
+122055,CP67MEL,integrated,10
+122195,CTB1,integrated,10
+122197,CTV1,integrated,10
+122311,D10,integrated,10
+122327,D245MG,integrated,10
+122328,D247MG,integrated,10
+122331,D263MG,integrated,10
+122338,D336MG,integrated,10
+122341,D392MG,integrated,10
+122342,D-397MG,UT Southwestern,100
+122349,D423MG,integrated,10
+122352,D502MG,integrated,10
+122353,D-538MG,UT Southwestern,100
+122354,D542MG,integrated,10
+122356,D566MG,integrated,10
+122495,DJM1,integrated,10
+122567,DOK,integrated,10
+122616,DOTC24510,integrated,10
+122626,DSH1,integrated,10
+126340,ECC-1,CTD2 Dashboard,40
+126341,ECC4,integrated,10
+126402,EGI1,integrated,10
+126420,ELF153,integrated,10
+126597,ES1,integrated,10
+126600,ES3,integrated,10
+126601,ES4,integrated,10
+126602,ES5,integrated,10
+126603,ES6,integrated,10
+126605,ES7,integrated,10
+126606,ES8,integrated,10
+126623,ESO26,integrated,10
+126730,ETK1,integrated,10
+126731,ETN-1,CTD2 Dashboard,40
+126745,EW1,integrated,10
+126746,EW11,integrated,10
+126747,EW12,integrated,10
+126748,EW13,integrated,10
+126749,EW16,integrated,10
+126750,EW18,integrated,10
+126751,EW22,integrated,10
+126752,EW24,integrated,10
+126841,FARAGE,integrated,10
+126916,FM28,integrated,10
+126919,FM45,integrated,10
+126930,FM56,integrated,10
+126931,FM57,integrated,10
+126933,FM58,integrated,10
+126935,FM6,integrated,10
+126940,FM72,integrated,10
+126941,FM74,integrated,10
+126943,FM78,integrated,10
+126944,FM79,integrated,10
+126945,FM81,integrated,10
+126946,FM82,integrated,10
+126947,FM86,integrated,10
+126948,FM88,integrated,10
+126949,FM9,integrated,10
+126951,FM92,integrated,10
+126959,FM95,integrated,10
+127461,GAK,integrated,10
+127641,GEO,integrated,10
+127678,GISTT1,integrated,10
+127763,GOTO,integrated,10
+127764,GOTO-P3,UT Southwestern,100
+127765,GP5D,integrated,10
+127833,GRST,integrated,10
+127844,GT3TKB,integrated,10
+127960,H103,integrated,10
+127978,NCIH1395,integrated,10
+127980,H157,integrated,10
+127983,NCIH1666,integrated,10
+127984,NCIH1755,integrated,10
+127985,NCIH1975,integrated,10
+127988,NCIH2087,integrated,10
+127989,NCIH209,integrated,10
+127990,NCIH2122,integrated,10
+127991,NCIH23,integrated,10
+127992,NCIH295R,integrated,10
+127994,H3118,integrated,10
+127995,H314,integrated,10
+127996,H357,integrated,10
+127997,NCIH358,integrated,10
+127999,NCIH441,integrated,10
+128000,NCIH446,integrated,10
+128001,NCIH460,integrated,10
+128003,NCIH508,integrated,10
+128004,NCIH596,integrated,10
+128005,NCIH661,integrated,10
+128006,NCIH69,integrated,10
+128007,H735,UT Southwestern,100
+128010,H9,integrated,10
+128013,NCIH929,integrated,10
+128019,HA7RCC,integrated,10
+128038,HAL01,integrated,10
+128227,HBL1,integrated,10
+128229,HC1,integrated,10
+128291,HCC2185,integrated,10
+128323,HCC2713,UT Southwestern,100
+128348,HCE4,integrated,10
+128350,HCE7,integrated,10
+128492,HDMAR2,integrated,10
+128504,HEC1,integrated,10
+128505,HEC116,integrated,10
+128524,HELASF,integrated,10
+128525,HEMCSS,integrated,10
+128616,HEY,integrated,10
+128779,HHUA,integrated,10
+128844,HMVII,integrated,10
+129028,HO1N1,integrated,10
+129029,HO1U1,integrated,10
+129071,HOC7,CTD2 Dashboard,40
+129266,HSB2,integrated,10
+129267,HSC39,integrated,10
+129361,HT3,integrated,10
+129476,HUO3N1,integrated,10
+129477,HUO9,integrated,10
+129698,IM9,integrated,10
+129721,IMR5,integrated,10
+129774,ISHIKAWA,integrated,10
+129778,ISTMEL1,integrated,10
+129779,ISTSL1,integrated,10
+129780,ISTSL2,integrated,10
+130244,JIM3,integrated,10
+130256,JIYOYEP2003,integrated,10
+130363,JRT3T35,integrated,10
+130425,K052,UT Southwestern,100
+130465,K2,integrated,10
+130512,K5,integrated,10
+130710,KARPAS45,integrated,10
+130873,KGN,integrated,10
+131098,KMOE2,integrated,10
+131151,KNS81FD,integrated,10
+131294,KOSC2,integrated,10
+131328,KPNS19S,integrated,10
+131329,KPNYS,integrated,10
+131494,KY821,integrated,10
+131508,KYSE220,integrated,10
+131510,KYSE50,integrated,10
+131698,L82,integrated,10
+131741,LAN1,integrated,10
+131744,LAN5,integrated,10
+131745,LAN6,integrated,10
+131904,LB1047RCC,integrated,10
+131906,LB2241RCC,integrated,10
+131908,LB2518MEL,integrated,10
+131909,LB373MELD,integrated,10
+131910,LB647SCLC,integrated,10
+131911,LB771HNC,integrated,10
+131912,LB831BLC,integrated,10
+131913,LB996RCC,integrated,10
+131914,LC1SQ,integrated,10
+131915,LC2AD,integrated,10
+131916,LC41,integrated,10
+132225,LIM1215,integrated,10
+132226,LIM1863,integrated,10
+132227,LIM1899,integrated,10
+132228,LIM2099,integrated,10
+132229,LIM2405,integrated,10
+132233,LIM2537,integrated,10
+132234,LIM2550,integrated,10
+132235,LIM2551,integrated,10
+132556,LU134A,integrated,10
+132557,LU134B,integrated,10
+132558,LU135,integrated,10
+132559,LU139,integrated,10
+132560,LU141,integrated,10
+132561,LU165,integrated,10
+132562,LU24,integrated,10
+132563,LU99A,integrated,10
+132751,M21,integrated,10
+132791,M24,integrated,10
+133030,MAMEL11,integrated,10
+133039,MAMEL14,integrated,10
+133045,MAMEL19,integrated,10
+133047,MAMEL21,integrated,10
+133048,MAMEL23,integrated,10
+133050,MAMEL27,integrated,10
+133051,MAMEL30,integrated,10
+133052,MAMEL32,integrated,10
+133058,MAMEL38,integrated,10
+133060,MAMEL40,integrated,10
+133063,MAMEL51,integrated,10
+133393,MCCAR,integrated,10
+133506,MDAMB330,integrated,10
+133628,ME180,integrated,10
+133751,MEL202,integrated,10
+133753,MEL270,integrated,10
+133762,MEL624,integrated,10
+133833,MFHINO,integrated,10
+133834,MFM223,integrated,10
+133878,MHHPREB1,integrated,10
+134204,MKN28,integrated,10
+134240,MLMA,integrated,10
+134260,MM1,integrated,10
+134265,MM127,integrated,10
+134267,MM170,integrated,10
+134275,MM1R,integrated,10
+134278,MM253,integrated,10
+134280,MM370,integrated,10
+134281,MM383,integrated,10
+134283,MM386,integrated,10
+134286,MM415,integrated,10
+134288,MM426,integrated,10
+134290,MM466,integrated,10
+134294,MM473,integrated,10
+134295,MM485,integrated,10
+134298,MM537,integrated,10
+134304,MM603,integrated,10
+134313,MMACSF,integrated,10
+134332,MN60,integrated,10
+134396,MOLM14,integrated,10
+134399,MOLT17,integrated,10
+134547,MRKNU1,integrated,10
+134550,MS1LUNG,integrated,10
+134555,MS751,integrated,10
+134595,MUTZ1,integrated,10
+134596,MUTZ8,integrated,10
+134704,MZ1PC,integrated,10
+134705,MZ2MEL,integrated,10
+134706,MZ7MEL,integrated,10
+134729,MZMEL13,integrated,10
+134730,MZMEL5,integrated,10
+134779,H417,UT Southwestern,100
+134841,NCIN87,integrated,10
+134940,NB10,integrated,10
+134942,NB12,integrated,10
+134945,NB13,integrated,10
+134948,NB14,integrated,10
+134952,NB1643,integrated,10
+134973,NB6,integrated,10
+134975,NB7,integrated,10
+134981,NBSUSSR,integrated,10
+134986,NCCIT,integrated,10
+135020,NCIH157,integrated,10
+135145,NH12,integrated,10
+135250,NK92,integrated,10
+135255,NKM1,integrated,10
+135256,NLF,CTD2 Dashboard,40
+135284,NO36,integrated,10
+135319,NOS1,integrated,10
+135355,NTERA2CLD1,integrated,10
+135356,NW145,integrated,10
+135402,NZM12,integrated,10
+135404,NZM3,integrated,10
+135405,NZM30,integrated,10
+135407,NZM40,integrated,10
+135408,NZM42,integrated,10
+135409,NZM43,integrated,10
+135412,NZM6,integrated,10
+135494,OACP4C,integrated,10
+135529,OCILY1,integrated,10
+135533,OCM3,integrated,10
+135536,OCUBM,integrated,10
+135720,OMC1,integrated,10
+135721,OMM1,integrated,10
+135722,OMM23,integrated,10
+135723,OMM25,integrated,10
+135851,OVCA433,integrated,10
+135853,NIHOVCAR3,integrated,10
+136066,P30OHK,integrated,10
+136126,PA1,integrated,10
+136348,PATU8902T,integrated,10
+137386,PFSK1,integrated,10
+137436,PK8,integrated,10
+138142,RAMOS,integrated,10
+138143,RAMOS2G64C10,integrated,10
+138177,RCCAB,integrated,10
+138178,RCCER,integrated,10
+138179,RCCFG2,integrated,10
+138180,RCCJF,integrated,10
+138181,RCCJW,integrated,10
+138182,RCCMF,integrated,10
+138408,RERFLCFM,integrated,10
+138409,RERFLCOK,integrated,10
+138445,RH1,integrated,10
+138446,RH36,integrated,10
+138507,RO82W1,integrated,10
+138548,RPMI2650,integrated,10
+138616,RTSG,UT Southwestern,100
+138618,RUCH2,integrated,10
+149072,SAS,integrated,10
+149114,SBC1,integrated,10
+149191,SCH,integrated,10
+149738,SKBR5,integrated,10
+149739,SKBR7,integrated,10
+149741,SKGIIIA,integrated,10
+149742,SKGT4,integrated,10
+149794,SKMEL19,integrated,10
+149896,SKMG1,integrated,10
+149901,SKN,integrated,10
+149923,SKPNDW,integrated,10
+149942,SK-UT-2,CTD2 Dashboard,40
+150107,SNU1181,integrated,10
+150108,SNU1235,integrated,10
+150109,SNU1330,integrated,10
+150110,SNU1411,integrated,10
+150111,SNU1460,integrated,10
+150112,SNU1544,integrated,10
+150113,SNU1684,integrated,10
+150114,SNU1746,integrated,10
+150115,SNU1750,integrated,10
+150116,SNU2292,integrated,10
+150118,SNU254,integrated,10
+150121,SNU638,integrated,10
+150126,SNU977,integrated,10
+150536,CDDB:150536,CDDB id,410
+150559,ST,integrated,10
+150759,SUDHL2,integrated,10
+150783,SUM102PT,integrated,10
+150785,SUM1315MO2,integrated,10
+150787,SUM149PT,integrated,10
+150789,SUM159PT,integrated,10
+150791,SUM185PE,integrated,10
+150793,SUM190PT,integrated,10
+150794,SUM229PE,integrated,10
+150795,SUM44PE,integrated,10
+150796,SUM52PE,integrated,10
+150799,SUPB8,integrated,10
+150877,SW13,integrated,10
+150880,SW626,integrated,10
+150882,SW684,integrated,10
+150883,SW756,integrated,10
+150884,SW872,integrated,10
+150885,SW954,integrated,10
+150886,SW962,integrated,10
+150887,SW982,integrated,10
+152560,TCYIK,integrated,10
+152563,TE12,integrated,10
+152564,TE13,integrated,10
+152565,TE2,integrated,10
+152566,TE3,integrated,10
+152568,TE7,integrated,10
+152653,TFK1,integrated,10
+152655,TGBC1TKB,integrated,10
+152656,TGBC24TKB,integrated,10
+152657,TGW,integrated,10
+152843,TMK1,integrated,10
+153039,TTC1240,integrated,10
+153040,TTC642,integrated,10
+153056,TUR,integrated,10
+153085,CDDB:153085,CDDB id,410
+153099,U698M,integrated,10
+153313,UMC11,integrated,10
+153314,UMRC3,integrated,10
+153316,UMRC7,integrated,10
+153318,UMSCC-14C,CTD2 Dashboard,40
+153320,UMSCC-22A,CTD2 Dashboard,40
+153321,UMSCC-22B,CTD2 Dashboard,40
+153322,UMUC14,integrated,10
+153490,VAESBJ,integrated,10
+153519,VAL,integrated,10
+153701,VMRCMELG,integrated,10
+153727,VP229,integrated,10
+154033,WERIRB1,integrated,10
+154116,WIDR,integrated,10
+154169,WM164,integrated,10
+154178,WM1862,integrated,10
+154186,WM278,integrated,10
+154189,WM3211,integrated,10
+154196,WM35,integrated,10
+154205,WM75,integrated,10
+154210,WM852,integrated,10
+154306,WSUNHL,integrated,10
+154903,YNH1,integrated,10
+154963,YT,integrated,10
+155282,RKN_OVARY,Achilles,90
+155283,CUTLL1,CTD2 Dashboard,40
+155284,DFCI032,UT Southwestern,100
+155285,NCIH28,integrated,10
+155286,H60,UT Southwestern,100
+155287,NCIH64,integrated,10
+155288,NCIH82,integrated,10
+155289,H87,UT Southwestern,100
+155290,H123,UT Southwestern,100
+155291,NCIH125,integrated,10
+155292,NCIH146,integrated,10
+155293,H182,UT Southwestern,100
+155294,NCIH196,integrated,10
+155295,NCIH211,integrated,10
+155296,CDDB:155296,CDDB id,410
+155297,NCIH226,integrated,10
+155298,H249,UT Southwestern,100
+155299,NCIH250,integrated,10
+155300,H285,UT Southwestern,100
+155301,H289,UT Southwestern,100
+155302,H290,integrated,10
+155303,H295,UT Southwestern,100
+155304,H298,UT Southwestern,100
+155305,NCIH322,integrated,10
+155306,H324,UT Southwestern,100
+155307,NCIH345,integrated,10
+155308,H360,UT Southwestern,100
+155309,H369,UT Southwestern,100
+155310,H372,UT Southwestern,100
+155311,NCIH378,integrated,10
+155312,CDDB:155312,CDDB id,410
+155313,H432,UT Southwestern,100
+155314,H433,UT Southwestern,100
+155315,H434,UT Southwestern,100
+155316,H449,UT Southwestern,100
+155317,H450,UT Southwestern,100
+155318,H462,UT Southwestern,100
+155319,H463,UT Southwestern,100
+155320,H478,UT Southwestern,100
+155321,NCIH498,integrated,10
+155322,NCIH510,integrated,10
+155323,NCIH513,integrated,10
+155324,NCIH520,integrated,10
+155325,NCIH522,integrated,10
+155326,NCIH524,integrated,10
+155327,NCIH526,integrated,10
+155328,H537,UT Southwestern,100
+155329,H548,UT Southwestern,100
+155330,H568,UT Southwestern,100
+155331,H578,UT Southwestern,100
+155332,H580,UT Southwestern,100
+155333,H606,UT Southwestern,100
+155334,H615,UT Southwestern,100
+155335,H618,UT Southwestern,100
+155336,H620,UT Southwestern,100
+155337,NCIH630,integrated,10
+155338,H640,UT Southwestern,100
+155339,NCIH647,integrated,10
+155340,NCIH650,integrated,10
+155341,NCIH660,integrated,10
+155342,CDDB:155342,CDDB id,410
+155343,H678,UT Southwestern,100
+155344,H679,UT Southwestern,100
+155345,NCIH684,integrated,10
+155346,H689,UT Southwestern,100
+155347,NCIH711,integrated,10
+155348,NCIH716,integrated,10
+155349,NCIH719,integrated,10
+155350,NCIH720,integrated,10
+155351,H726,UT Southwestern,100
+155352,NCIH727,integrated,10
+155353,H738,UT Southwestern,100
+155354,NCIH740,integrated,10
+155355,H742,UT Southwestern,100
+155356,NCIH747,integrated,10
+155357,NCIH748,integrated,10
+155358,H749,UT Southwestern,100
+155359,H768,UT Southwestern,100
+155360,H774,UT Southwestern,100
+155361,H792,UT Southwestern,100
+155362,NCIH810,integrated,10
+155363,NCIH820,integrated,10
+155364,NCIH835,integrated,10
+155365,NCIH838,integrated,10
+155366,NCIH841,integrated,10
+155367,NCIH847,integrated,10
+155368,NCIH854,integrated,10
+155369,H862,UT Southwestern,100
+155370,CDDB:155370,CDDB id,410
+155371,NCIH889,integrated,10
+155372,H890,UT Southwestern,100
+155373,CDDB:155373,CDDB id,410
+155374,H930,UT Southwestern,100
+155375,H958,UT Southwestern,100
+155376,H962,UT Southwestern,100
+155377,NCIH969,integrated,10
+155378,H1008,UT Southwestern,100
+155379,H1045,UT Southwestern,100
+155380,NCIH1048,integrated,10
+155381,H1059,UT Southwestern,100
+155382,H1061,UT Southwestern,100
+155383,H1062,UT Southwestern,100
+155384,H1086,UT Southwestern,100
+155385,NCIH1092,integrated,10
+155386,H1101,UT Southwestern,100
+155387,NCIH1105,integrated,10
+155388,NCIH1155,integrated,10
+155389,H1173,UT Southwestern,100
+155390,NCIH1184,integrated,10
+155391,H1185,UT Southwestern,100
+155392,NCIH1238,integrated,10
+155393,H1264,UT Southwestern,100
+155394,H1284,UT Southwestern,100
+155395,NCIH1299,integrated,10
+155396,NCIH1304,integrated,10
+155397,H1315,UT Southwestern,100
+155398,NCIH1334,integrated,10
+155399,NCIH1339,integrated,10
+155400,NCIH1341,integrated,10
+155401,NCIH1355,integrated,10
+155402,NCIH1373,integrated,10
+155403,H1378,UT Southwestern,100
+155404,NCIH1385,integrated,10
+155405,NCIH1404,integrated,10
+155406,NCIH1417,integrated,10
+155407,NCIH1435,integrated,10
+155408,NCIH1436,integrated,10
+155409,NCIH1437,integrated,10
+155410,H1445,UT Southwestern,100
+155411,H1447,UT Southwestern,100
+155412,H1450,UT Southwestern,100
+155413,H1451,UT Southwestern,100
+155414,H1466,UT Southwestern,100
+155415,H1474,UT Southwestern,100
+155416,H1498,UT Southwestern,100
+155417,H1512,UT Southwestern,100
+155418,H1514,UT Southwestern,100
+155419,NCIH1522,integrated,10
+155420,H1548,UT Southwestern,100
+155421,NCIH1563,integrated,10
+155422,NCIH1568,integrated,10
+155423,H1570,UT Southwestern,100
+155424,NCIH1573,integrated,10
+155425,NCIH1581,integrated,10
+155426,H1583,UT Southwestern,100
+155427,H1607,UT Southwestern,100
+155428,H1608,UT Southwestern,100
+155429,NCIH1618,integrated,10
+155430,H1622,UT Southwestern,100
+155431,NCIH1623,integrated,10
+155432,H1628,UT Southwestern,100
+155433,NCIH1648,integrated,10
+155434,NCIH1650,integrated,10
+155435,NCIH1651,integrated,10
+155436,H1653,UT Southwestern,100
+155437,NCIH1672,integrated,10
+155438,NCIH1688,integrated,10
+155439,NCIH1693,integrated,10
+155440,NCIH1694,integrated,10
+155441,NCIH1703,integrated,10
+155442,H1710,UT Southwestern,100
+155443,H1717,UT Southwestern,100
+155444,H1725,UT Southwestern,100
+155445,NCIH1734,integrated,10
+155446,H1769,UT Southwestern,100
+155447,NCIH1770,integrated,10
+155448,NCIH1781,integrated,10
+155449,H1788,UT Southwestern,100
+155450,NCIH1792,integrated,10
+155451,NCIH1793,integrated,10
+155452,NCIH1819,integrated,10
+155453,H1824,UT Southwestern,100
+155454,NCIH1836,integrated,10
+155455,NCIH1838,integrated,10
+155456,NCIH1869,integrated,10
+155457,H1870,UT Southwestern,100
+155458,NCIH1876,integrated,10
+155459,H1878,UT Southwestern,100
+155460,H1881,UT Southwestern,100
+155461,NCIH1882,integrated,10
+155462,H1904,UT Southwestern,100
+155463,NCIH1915,integrated,10
+155464,H1926,UT Southwestern,100
+155465,H1929,UT Southwestern,100
+155466,NCIH1930,integrated,10
+155467,NCIH1944,integrated,10
+155468,H1954,UT Southwestern,100
+155469,NCIH1963,integrated,10
+155470,H1968,UT Southwestern,100
+155471,H1969,UT Southwestern,100
+155472,H1974,UT Southwestern,100
+155473,H1977,UT Southwestern,100
+155474,NCIH1993,integrated,10
+155475,NCIH1994,integrated,10
+155476,NCIH2009,integrated,10
+155477,NCIH2023,integrated,10
+155478,H2028,UT Southwestern,100
+155479,NCIH2029,integrated,10
+155480,NCIH2030,integrated,10
+155481,NCIH2052,integrated,10
+155482,H2058,UT Southwestern,100
+155483,H2059,UT Southwestern,100
+155484,NCIH2066,integrated,10
+155485,NCIH2073,integrated,10
+155486,NCIH2077,integrated,10
+155487,NCIH2081,integrated,10
+155488,NCIH2085,integrated,10
+155489,H2086,UT Southwestern,100
+155490,H2098,UT Southwestern,100
+155491,NCIH2106,integrated,10
+155492,CDDB:155492,CDDB id,410
+155493,NCIH2110,integrated,10
+155494,NCIH2126,integrated,10
+155495,NCIH2135,integrated,10
+155496,NCIH2141,integrated,10
+155497,H2145,UT Southwestern,100
+155498,NCIH2170,integrated,10
+155499,NCIH2171,integrated,10
+155500,NCIH2172,integrated,10
+155501,CDDB:155501,CDDB id,410
+155502,NCIH2196,integrated,10
+155503,H2198,UT Southwestern,100
+155504,NCIH2227,integrated,10
+155505,NCIH2228,integrated,10
+155506,H2250,UT Southwestern,100
+155507,H2258,UT Southwestern,100
+155508,H2280,UT Southwestern,100
+155509,H2284,UT Southwestern,100
+155510,NCIH2286,integrated,10
+155511,NCIH2291,integrated,10
+155512,NCIH2330,integrated,10
+155513,NCIH2342,integrated,10
+155514,NCIH2347,integrated,10
+155515,NCIH2373,integrated,10
+155516,H2380,UT Southwestern,100
+155517,H2403,UT Southwestern,100
+155518,NCIH2405,integrated,10
+155519,NCIH2444,integrated,10
+155520,NCIH2452,integrated,10
+155521,NCIH2882,integrated,10
+155522,NCIH2887,integrated,10
+155523,NCIH3122,integrated,10
+155524,NCIH3255,integrated,10
+155525,HCC5,UT Southwestern,100
+155526,HCC10,UT Southwestern,100
+155527,HCC12,UT Southwestern,100
+155528,HCC19,UT Southwestern,100
+155529,HCC20,UT Southwestern,100
+155530,HCC31,UT Southwestern,100
+155531,HCC41,UT Southwestern,100
+155532,HCC60,UT Southwestern,100
+155533,HCC89,UT Southwestern,100
+155534,HCC90,UT Southwestern,100
+155535,HCC103,UT Southwestern,100
+155536,HCC122,UT Southwestern,100
+155537,HCC128,UT Southwestern,100
+155538,HCC149,UT Southwestern,100
+155539,HCC229,UT Southwestern,100
+155540,HCC242,UT Southwestern,100
+155541,HCC263,UT Southwestern,100
+155542,HCC267,UT Southwestern,100
+155543,HCC317,UT Southwestern,100
+155544,HCC345,UT Southwestern,100
+155545,HCC374,UT Southwestern,100
+155546,HCC379,UT Southwestern,100
+155547,HCC407,UT Southwestern,100
+155548,HCC420,UT Southwestern,100
+155549,HCC435,UT Southwestern,100
+155550,HCC446,UT Southwestern,100
+155551,HCC555,UT Southwestern,100
+155552,HCC590,UT Southwestern,100
+155553,HCC597,UT Southwestern,100
+155554,HCC630,UT Southwestern,100
+155555,HCC653,UT Southwestern,100
+155556,HCC711,UT Southwestern,100
+155557,HCC712,UT Southwestern,100
+155558,HCC815,UT Southwestern,100
+155559,HCC824,UT Southwestern,100
+155560,HCC826,UT Southwestern,100
+155561,HCC841,UT Southwestern,100
+155562,HCC845,UT Southwestern,100
+155563,HCC850,UT Southwestern,100
+155564,HCC853,UT Southwestern,100
+155565,HCC880,UT Southwestern,100
+155566,HCC889,UT Southwestern,100
+155567,HCC954,UT Southwestern,100
+155568,HCC956,UT Southwestern,100
+155569,HCC970,UT Southwestern,100
+155570,HCC973,UT Southwestern,100
+155571,HCC985,UT Southwestern,100
+155572,HCC1007,UT Southwestern,100
+155573,HCC1010,UT Southwestern,100
+155574,HCC1011,UT Southwestern,100
+155575,HCC1033,UT Southwestern,100
+155576,HCC1035,UT Southwestern,100
+155577,HCC1037,UT Southwestern,100
+155578,HCC1042,UT Southwestern,100
+155579,HCC1054,UT Southwestern,100
+155580,HCC1057,UT Southwestern,100
+155581,HCC1068,UT Southwestern,100
+155582,HCC1106,UT Southwestern,100
+155583,HCC1115,UT Southwestern,100
+155584,HCC1139,UT Southwestern,100
+155585,HCC1140,UT Southwestern,100
+155586,HCC1158,UT Southwestern,100
+155587,HCC1159,UT Southwestern,100
+155588,HCC1162,UT Southwestern,100
+155589,HCC1192,UT Southwestern,100
+155590,HCC1205,UT Southwestern,100
+155591,HCC1210,UT Southwestern,100
+155592,HCC1217,UT Southwestern,100
+155593,HCC1220,UT Southwestern,100
+155594,HCC1260,UT Southwestern,100
+155595,HCC1261,UT Southwestern,100
+155596,HCC1263,UT Southwestern,100
+155597,HCC1266,UT Southwestern,100
+155598,HCC1311,UT Southwestern,100
+155599,HCC1313,UT Southwestern,100
+155600,HCC1314,UT Southwestern,100
+155601,HCC1319,UT Southwestern,100
+155602,HCC1323,UT Southwestern,100
+155603,HCC1347,UT Southwestern,100
+155604,HCC1354,UT Southwestern,100
+155605,HCC1360,UT Southwestern,100
+155606,HCC1367,UT Southwestern,100
+155607,HCC1375,UT Southwestern,100
+155608,HCC1385,UT Southwestern,100
+155609,HCC1386,UT Southwestern,100
+155610,HCC1393,UT Southwestern,100
+155611,HCC1403,UT Southwestern,100
+155612,HCC1405,UT Southwestern,100
+155613,HCC1426,UT Southwestern,100
+155614,HCC1437,UT Southwestern,100
+155615,HCC1445,UT Southwestern,100
+155616,HCC1448,UT Southwestern,100
+155617,HCC1482,UT Southwestern,100
+155618,HCC1493,UT Southwestern,100
+155619,HCC1498,UT Southwestern,100
+155620,HCC1501,UT Southwestern,100
+155621,HCC1510,UT Southwestern,100
+155622,HCC1534,UT Southwestern,100
+155623,HCC1561,UT Southwestern,100
+155624,HCC1576,UT Southwestern,100
+155625,HCC1581,UT Southwestern,100
+155626,HCC1595,UT Southwestern,100
+155627,HCC1623,UT Southwestern,100
+155628,HCC1629,UT Southwestern,100
+155629,HCC1637,UT Southwestern,100
+155630,HCC1671,UT Southwestern,100
+155631,HCC1683,UT Southwestern,100
+155632,HCC1685,UT Southwestern,100
+155633,HCC1686,UT Southwestern,100
+155634,HCC1688,UT Southwestern,100
+155635,HCC1705,UT Southwestern,100
+155636,HCC1719,UT Southwestern,100
+155637,HCC1739,integrated,10
+155638,HCC1772,UT Southwestern,100
+155639,HCC1819,UT Southwestern,100
+155640,HCC1820,UT Southwestern,100
+155641,HCC1895,UT Southwestern,100
+155642,HCC1908,UT Southwestern,100
+155643,HCC1943,UT Southwestern,100
+155644,HCC1944,UT Southwestern,100
+155645,HCC1945,UT Southwestern,100
+155646,HCC1963,UT Southwestern,100
+155647,HCC1972,UT Southwestern,100
+155648,HCC1974,UT Southwestern,100
+155649,HCC1975,UT Southwestern,100
+155650,HCC2036,UT Southwestern,100
+155651,HCC2038,UT Southwestern,100
+155652,HCC2041,UT Southwestern,100
+155653,HCC2098,UT Southwestern,100
+155654,HCC2099,UT Southwestern,100
+155655,HCC2141,UT Southwestern,100
+155656,HCC2270,UT Southwestern,100
+155657,HCC2277,UT Southwestern,100
+155658,HCC2302,UT Southwestern,100
+155659,HCC2307,UT Southwestern,100
+155660,HCC2308,UT Southwestern,100
+155661,HCC2312,UT Southwestern,100
+155662,HCC2344,UT Southwestern,100
+155663,HCC2352,UT Southwestern,100
+155664,HCC2374,UT Southwestern,100
+155665,HCC2389,UT Southwestern,100
+155666,HCC2393,UT Southwestern,100
+155667,HCC2414,UT Southwestern,100
+155668,HCC2433,UT Southwestern,100
+155669,HCC2565,UT Southwestern,100
+155670,HCC2621,UT Southwestern,100
+155671,HCC2637,UT Southwestern,100
+155672,HCC2677,UT Southwestern,100
+155673,HCC2688,integrated,10
+155674,HCC2695,UT Southwestern,100
+155675,HCC2771,UT Southwestern,100
+155676,HCC2783,UT Southwestern,100
+155677,HCC2846,UT Southwestern,100
+155678,HCC2858,UT Southwestern,100
+155679,HCC2877,UT Southwestern,100
+155680,HCC2879,UT Southwestern,100
+155681,HCC2885,UT Southwestern,100
+155682,HCC2958,UT Southwestern,100
+155683,HCC2962,UT Southwestern,100
+155684,HCC2974,UT Southwestern,100
+155685,HCC3051,UT Southwestern,100
+155686,HCC3153,integrated,10
+155687,HCC3172,UT Southwestern,100
+155688,HCC3270,UT Southwestern,100
+155689,HCC3335,UT Southwestern,100
+155690,HCC3418,UT Southwestern,100
+155691,HCC4000,UT Southwestern,100
+155692,HCC4001,UT Southwestern,100
+155693,HCC4002,UT Southwestern,100
+155694,HCC4003,UT Southwestern,100
+155695,HCC4004,UT Southwestern,100
+155696,HCC4005,UT Southwestern,100
+155697,HCC4011,UT Southwestern,100
+155698,HCC4012,UT Southwestern,100
+155699,HCC4017,UT Southwestern,100
+155700,HCC4018,UT Southwestern,100
+155701,HCC4019,UT Southwestern,100
+155702,HCC4021,UT Southwestern,100
+155703,HCC4032,UT Southwestern,100
+155704,HCC5000,UT Southwestern,100
+155705,HCC5001,UT Southwestern,100
+155706,HCC5002,UT Southwestern,100
+155707,HCC5003,UT Southwestern,100
+155708,HCC5005,UT Southwestern,100
+155709,HCC5006,UT Southwestern,100
+155710,HCC5007,UT Southwestern,100
+155711,HCC5008,UT Southwestern,100
+155712,HCC5009,UT Southwestern,100
+155713,HCC5010,UT Southwestern,100
+155714,HCC5011,UT Southwestern,100
+155715,HCC5012,UT Southwestern,100
+155716,HCC5013,UT Southwestern,100
+155717,HCC5014,UT Southwestern,100
+155718,HCC5015,UT Southwestern,100
+155719,HCC5016,UT Southwestern,100
+155720,HCC5017,UT Southwestern,100
+155721,HCC5018,UT Southwestern,100
+155722,HCC5019,UT Southwestern,100
+155723,HCC5020,UT Southwestern,100
+155724,HCC5021,UT Southwestern,100
+155725,HCC5022,UT Southwestern,100
+155726,HCC5023,UT Southwestern,100
+155727,HCC5024,UT Southwestern,100
+155728,HCC5025,UT Southwestern,100
+155729,HCC5026,UT Southwestern,100
+155730,HCC5027,UT Southwestern,100
+155731,HCC5028,UT Southwestern,100
+155732,HCC5030,UT Southwestern,100
+155733,HCC5032,UT Southwestern,100
+155734,HCC5033,UT Southwestern,100
+155735,HCC5034,UT Southwestern,100
+155736,HCC5035,UT Southwestern,100
+155737,HCC5036,UT Southwestern,100
+155738,HCC5037,UT Southwestern,100
+155739,HCC5038,UT Southwestern,100
+155740,HCC5040,UT Southwestern,100
+155741,HCC5041,UT Southwestern,100
+155742,HCC5042,UT Southwestern,100
+155743,HCC5043,UT Southwestern,100
+155744,HCC5044,UT Southwestern,100
+155745,N177,UT Southwestern,100
+155746,N179,UT Southwestern,100
+155747,N230,UT Southwestern,100
+155748,N231,UT Southwestern,100
+155749,N390,UT Southwestern,100
+155750,N408,UT Southwestern,100
+155751,N592,UT Southwestern,100
+155752,SNU-55,UT Southwestern,100
+155753,184A1,integrated,10
+155754,184B5,integrated,10
+155755,600MPE,integrated,10
+155756,B217,integrated,10
+155757,BC1,integrated,10
+155758,BOKU,integrated,10
+155759,BONNA12,integrated,10
+155760,BPH1,integrated,10
+155761,C4II,integrated,10
+155762,CESS,integrated,10
+155763,CHP134,integrated,10
+155764,COLO-720E,UT Southwestern,100
+155765,CROAP2,integrated,10
+155766,CRO-AP5,UT Southwestern,100
+155767,D-384MED,UT Southwestern,100
+155768,CDDB:155768,CDDB id,410
+155769,D-556MED,UT Southwestern,100
+155770,EB3,integrated,10
+155771,EW3,integrated,10
+155772,EW7,integrated,10
+155773,GA10CLONE20,integrated,10
+155774,GIMEN,integrated,10
+155775,HCET,integrated,10
+155776,ITO-II,UT Southwestern,100
+155777,JAR,integrated,10
+155778,JEG3,integrated,10
+155779,LY2,integrated,10
+155780,MC1010,integrated,10
+155781,MCF-10F,UT Southwestern,100
+155782,MCF12A,integrated,10
+155783,MCIXC,integrated,10
+155784,NB16,integrated,10
+155785,NB17,integrated,10
+155786,CDDB:155786,CDDB id,410
+155787,NB5,integrated,10
+155788,NB69,integrated,10
+155789,NEC8,integrated,10
+155790,NY,integrated,10
+155791,PD1503a,UT Southwestern,100
+155792,QIMRWIL,integrated,10
+155793,RF48,integrated,10
+155794,RPMI8866,integrated,10
+155795,SCC3,integrated,10
+155796,SCCH26,integrated,10
+155797,SCLC22H,integrated,10
+155798,SUM225CWN,integrated,10
+155799,TCO-1,UT Southwestern,100
+155800,TE-161-T,UT Southwestern,100
+155801,CDDB:155801,CDDB id,410
+155802,ZR75B,integrated,10
+155803,BT232,integrated,10
+155804,BT245,integrated,10
+155805,BT271,CTRP,80
+155806,BT286,integrated,10
+155807,BT320,integrated,10
+155808,BT328,CTRP,80
+155809,BT330,integrated,10
+155810,BT333,integrated,10
+155811,BT340,CTRP,80
+155812,BT359,integrated,10
+155813,BT416,CTRP,80
+155814,BT422,CTRP,80
+155815,BT428,integrated,10
+155816,BT440,CTRP,80
+155817,BT444,CTRP,80
+155818,BT482,CTRP,80
+155819,BT504,CTRP,80
+155820,BT12,integrated,10
+155821,BT16,integrated,10
+155822,TM87-16,CTRP,80
+155823,2004,CTRP,80
+155824,TTC709,integrated,10
+155825,ASKA,integrated,10
+155826,YAMATO,integrated,10
+155827,SYO1,integrated,10
+155828,HNT342,integrated,10
+155829,INA62,integrated,10
+155830,KMS182,integrated,10
+155831,NCIH2004RT,integrated,10
+155832,NHA,Achilles synonym,290
+155833,OCIMY52,integrated,10
+155834,OCIMY72,integrated,10
+155835,OPM12,integrated,10
+155836,PLB9852,integrated,10
+155837,SKNO12,integrated,10
+155838,TM87,integrated,10
+155839,Ba/F3,CTD2 Dashboard,40
+155840,MLL-AF9;NrasG12D,CTD2 Dashboard,40
+155841,UCH1,integrated,10
+155842,UMSCC-14A,CTD2 Dashboard,40
+155843,PCI15A,integrated,10
+155844,PCI-15B,CTD2 Dashboard,40
+155845,UMSCC-38,CTD2 Dashboard,40
+155846,JHU-019,CTD2 Dashboard,40
+155847,UMSCC-47,CTD2 Dashboard,40
+155848,SNGII,integrated,10
+155849,NHAHTDD,integrated,10
+155850,CDDB:155850,CDDB id,410
+155851,CDDB:155851,CDDB id,410
+155852,KD,integrated,10
+155853,MKL1,integrated,10
+155854,MKL2,integrated,10
+155855,PETA,integrated,10
+155856,SUMB002,integrated,10
+155857,TTC549,integrated,10
+155858,HBEC30-KT,CTD2 Dashboard,40
+155859,CBAGPN,integrated,10
+155860,CHLA10,integrated,10
+155861,CHLA218,integrated,10
+155862,CHLA32,integrated,10
+155863,CHLA57,integrated,10
+155864,CHLA9,integrated,10
+155865,CHLA99,integrated,10
+155866,COGE352,integrated,10
+155867,TC106,integrated,10
+155868,TC138,integrated,10
+155869,TC205,integrated,10
+155870,CDDB:155870,CDDB id,410
+155871,R256,integrated,10
+155872,R262,integrated,10
+155873,R308,integrated,10
+155874,SUMB004,integrated,10
+155875,UW228,integrated,10
+155876,DERL2,integrated,10
+155877,DL40,integrated,10
+155878,FEPD,integrated,10
+155879,KARPAS384,integrated,10
+155880,KHYG,integrated,10
+155881,MAC2A,integrated,10
+155882,MTA,integrated,10
+155883,MYLA,integrated,10
+155884,NKL,integrated,10
+155885,OCILY12,integrated,10
+155886,OCILY132,integrated,10
+155887,OCILY17,integrated,10
+155888,SMZ1,integrated,10
+155889,U2932,integrated,10
+155890,CCLFPEDS0001T,integrated,10
+155891,PEDS030T,integrated,10
+155892,L3411N,integrated,10
+155893,PEDS019TBT,integrated,10
+155894,BIN67,integrated,10
+155895,SCCOHT1,integrated,10
+155896,BROLI,integrated,10
+155897,MS1SKIN,integrated,10
+155898,WAGA,integrated,10
+155899,127399,integrated,10
+155900,ATRT1,integrated,10
+155901,ATRT3,integrated,10
+155902,CHLA02ATRT,integrated,10
+155903,CHLA04ATRT,integrated,10
+155904,CHLA05ATRT,integrated,10
+155905,CHLA06ATRT,integrated,10
+155906,CHLA266,integrated,10
+155907,D271,integrated,10
+155908,DL,integrated,10
+155909,FUJI,integrated,10
+155910,HSSY2,integrated,10
+155911,KPMRTRY,integrated,10
+155912,MON,integrated,10
+155913,CCLFPEDS0003T,integrated,10
+155914,STM9101,integrated,10
+155915,UPCISCC090,integrated,10
+155916,UPCISCC152,integrated,10
+155917,UPCISCC154,integrated,10
+155918,HCTtetK,CTD2 Dashboard,40
+155919,HA1E-M,CTD2 Dashboard,40
+155920,HF-1,CTD2 Dashboard,40
+155921,MS5,CTD2 Dashboard,40
+155922,COGN305,integrated,10
+155923,CHLA15,integrated,10
+155924,COGN278,integrated,10
+155925,UMCHOR1,integrated,10
+155926,JHC7,integrated,10
+155927,MUGCHOR1,integrated,10
+155928,COGAR359,integrated,10
+155929,CME1,integrated,10
+155930,SCS214,integrated,10
+155931,921,integrated,10
+155932,ANGMCSS,integrated,10
+155933,ASH3,integrated,10
+155934,BB30PBL_MATCHED_NORMAL_TISSUE,CCLE,50
+155935,BB49EBV_MATCHED_NORMAL_TISSUE,CCLE,50
+155936,BB65EBV_MATCHED_NORMAL_TISSUE,CCLE,50
+155937,BE2M17,integrated,10
+155938,BICR10,integrated,10
+155939,BICR78,integrated,10
+155940,BLUE1,integrated,10
+155941,CDDB:155941,CDDB id,410
+155942,CDDB:155942,CDDB id,410
+155943,CDDB:155943,CDDB id,410
+155944,CCLFPEDS0004T,integrated,10
+155945,CCLFPEDS0008T,integrated,10
+155946,CCLFPEDS0018T,integrated,10
+155947,CHLA258,integrated,10
+155948,CHSA0011,integrated,10
+155949,CHSA0108,integrated,10
+155950,CHSA8926,integrated,10
+155951,COLO794,integrated,10
+155952,COLO829_MATCHED_NORMAL_TISSUE,CCLE,50
+155953,CORL303,integrated,10
+155954,CORL321,integrated,10
+155955,CORL32,integrated,10
+155956,COV413A,integrated,10
+155957,CP50EBV_MATCHED_NORMAL_TISSUE,CCLE,50
+155958,CP66EBV_MATCHED_NORMAL_TISSUE,CCLE,50
+155959,CROAP3,integrated,10
+155960,CS1,integrated,10
+155961,DIFI,integrated,10
+155962,DIPG007,integrated,10
+155963,CDDB:155963,CDDB id,410
+155964,EMCBAC1,integrated,10
+155965,EMCBAC2,integrated,10
+155966,ESO51,integrated,10
+155967,FLO1,integrated,10
+155968,GBM001,integrated,10
+155969,GMEL,integrated,10
+155970,H2369,integrated,10
+155971,NCIH2461,integrated,10
+155972,NCIH2591,integrated,10
+155973,H2595,integrated,10
+155974,H2722,integrated,10
+155975,H2731,integrated,10
+155976,H2795,integrated,10
+155977,H2803,integrated,10
+155978,H2804,integrated,10
+155979,H2810,integrated,10
+155980,H2818,integrated,10
+155981,H2869,integrated,10
+155982,HA1E,integrated,10
+155983,HA7EBV_MATCHED_NORMAL_TISSUE,CCLE,50
+155984,HBL100,integrated,10
+155985,HCC1143_MATCHED_NORMAL_TISSUE,CCLE,50
+155986,HCC1187_MATCHED_NORMAL_TISSUE,CCLE,50
+155987,HCC1395_MATCHED_NORMAL_TISSUE,CCLE,50
+155988,HCC1599_MATCHED_NORMAL_TISSUE,CCLE,50
+155989,HCC1937_MATCHED_NORMAL_TISSUE,CCLE,50
+155990,HCC1954_MATCHED_NORMAL_TISSUE,CCLE,50
+155991,HCC2157_MATCHED_NORMAL_TISSUE,CCLE,50
+155992,HCC2218_MATCHED_NORMAL_TISSUE,CCLE,50
+155993,HCC38_MATCHED_NORMAL_TISSUE,CCLE,50
+155994,HCC827GR,integrated,10
+155995,CDDB:155995,CDDB id,410
+155996,HKA1,integrated,10
+155997,HMY1,integrated,10
+155998,HS445,integrated,10
+155999,HS633T,integrated,10
+156000,HSC1,integrated,10
+156001,HSC5,integrated,10
+156002,HSSYII,integrated,10
+156003,HUH6CLONE5,integrated,10
+156004,CDDB:156004,CDDB id,410
+156005,CDDB:156005,CDDB id,410
+156006,IHH4,integrated,10
+156007,J82_MATCHED_NORMAL_TISSUE,CCLE,50
+156008,JHOS3,integrated,10
+156009,JHU011,integrated,10
+156010,JHU022,integrated,10
+156011,JHU028,integrated,10
+156012,JHU029,integrated,10
+156013,CDDB:156013,CDDB id,410
+156014,JMURTK2,integrated,10
+156015,JOPACA1,integrated,10
+156016,JSC1,integrated,10
+156017,KARPAS1106P,integrated,10
+156018,KARPAS231,integrated,10
+156019,KKU100,integrated,10
+156020,KMH2THYROID,integrated,10
+156021,KON,integrated,10
+156022,KYAE1,integrated,10
+156023,L542_MATCHED_NORMAL_TISSUE,CCLE,50
+156024,LAN2,integrated,10
+156025,LB1047EBV_MATCHED_NORMAL_TISSUE,CCLE,50
+156026,LB2241EBV_MATCHED_NORMAL_TISSUE,CCLE,50
+156027,LB2518EBV_MATCHED_NORMAL_TISSUE,CCLE,50
+156028,LB373EBV_MATCHED_NORMAL_TISSUE,CCLE,50
+156029,LB647PBL_MATCHED_NORMAL_TISSUE,CCLE,50
+156030,LB771PBL_MATCHED_NORMAL_TISSUE,CCLE,50
+156031,LB831EBV_MATCHED_NORMAL_TISSUE,CCLE,50
+156032,LB996EBV_MATCHED_NORMAL_TISSUE,CCLE,50
+156033,CDDB:156033,CDDB id,410
+156034,CDDB:156034,CDDB id,410
+156035,LNZTA3WT4,integrated,10
+156036,LS1034_MATCHED_NORMAL_TISSUE,CCLE,50
+156037,M00921,integrated,10
+156038,M1203273,integrated,10
+156039,M980513,integrated,10
+156040,MACLS2,integrated,10
+156041,MB1,integrated,10
+156042,MCC13,integrated,10
+156043,MCC142,integrated,10
+156044,MCC26,integrated,10
+156045,MEL285,integrated,10
+156046,MERO14,integrated,10
+156047,MERO25,integrated,10
+156048,MERO41,integrated,10
+156049,MERO48A,integrated,10
+156050,MERO82,integrated,10
+156051,MERO83,integrated,10
+156052,MERO84,integrated,10
+156053,MERO95,integrated,10
+156054,MET2B,integrated,10
+156055,CDDB:156055,CDDB id,410
+156056,MOT,integrated,10
+156057,CDDB:156057,CDDB id,410
+156058,MX1,integrated,10
+156059,MYM12,integrated,10
+156060,MZ1B_MATCHED_NORMAL_TISSUE,CCLE,50
+156061,MZ7B_MATCHED_NORMAL_TISSUE,CCLE,50
+156062,CDDB:156062,CDDB id,410
+156063,CDDB:156063,CDDB id,410
+156064,NBTU110,integrated,10
+156065,NCC010,integrated,10
+156066,NCC021,integrated,10
+156067,NCIBL128_MATCHED_NORMAL_TISSUE,CCLE,50
+156068,NCIBL1395_MATCHED_NORMAL_TISSUE,CCLE,50
+156069,NCIBL1437_MATCHED_NORMAL_TISSUE,CCLE,50
+156070,NCIBL1770_MATCHED_NORMAL_TISSUE,CCLE,50
+156071,NCIBL2009_MATCHED_NORMAL_TISSUE,CCLE,50
+156072,NCIBL2052_MATCHED_NORMAL_TISSUE,CCLE,50
+156073,NCIBL2087_MATCHED_NORMAL_TISSUE,CCLE,50
+156074,NCIBL209_MATCHED_NORMAL_TISSUE,CCLE,50
+156075,NCIBL2122_MATCHED_NORMAL_TISSUE,CCLE,50
+156076,NCIBL2126_MATCHED_NORMAL_TISSUE,CCLE,50
+156077,NCIBL2171_MATCHED_NORMAL_TISSUE,CCLE,50
+156078,NK92MI,integrated,10
+156079,NMB,integrated,10
+156080,NP5,integrated,10
+156081,NP8,integrated,10
+156082,CDDB:156082,CDDB id,410
+156083,OACM51,integrated,10
+156084,OCIC5X,integrated,10
+156085,OCILY7,integrated,10
+156086,ONDA9,integrated,10
+156087,OSC19,integrated,10
+156088,OSC20,integrated,10
+156089,OV17R,integrated,10
+156090,OVCA420,integrated,10
+156091,OVMIU,integrated,10
+156092,P32ISH,integrated,10
+156093,PACADD119,integrated,10
+156094,PACADD135,integrated,10
+156095,PACADD137,integrated,10
+156096,PACADD159,integrated,10
+156097,PACADD161,integrated,10
+156098,PACADD165,integrated,10
+156099,PACADD188,integrated,10
+156100,PC3JPC3,integrated,10
+156101,PCI30,integrated,10
+156102,PCI38,integrated,10
+156103,PCI4B,integrated,10
+156104,PCI6A,integrated,10
+156105,PEO1,integrated,10
+156106,PL18,integrated,10
+156107,PL4,integrated,10
+156108,PWR1E,integrated,10
+156109,CDDB:156109,CDDB id,410
+156110,RC2,integrated,10
+156111,RDP3F14,integrated,10
+156112,RDP3F7,integrated,10
+156113,RDP3F9,integrated,10
+156114,RDPCDNA1,integrated,10
+156115,RH18DM,integrated,10
+156116,RH4,integrated,10
+156117,RHJT,integrated,10
+156118,RMS13,integrated,10
+156119,ROS50,integrated,10
+156120,SARC9371,integrated,10
+156121,SAT,integrated,10
+156122,SBC3,integrated,10
+156123,SC1,integrated,10
+156124,CDDB:156124,CDDB id,410
+156125,CDDB:156125,CDDB id,410
+156126,SEKI,integrated,10
+156127,SISO,integrated,10
+156128,CDDB:156128,CDDB id,410
+156129,SKGT2,integrated,10
+156130,SKN3,integrated,10
+156131,SLVL,integrated,10
+156132,SS1A,integrated,10
+156133,STS0421,integrated,10
+156134,SUDHL16,integrated,10
+156135,SW156,integrated,10
+156136,SW527,integrated,10
+156137,TASK1,integrated,10
+156138,TK,integrated,10
+156139,TTC442,integrated,10
+156140,UCH2,integrated,10
+156141,UDSCC2,integrated,10
+156142,UMUC10,integrated,10
+156143,UMUC11,integrated,10
+156144,UMUC13,integrated,10
+156145,UMUC16,integrated,10
+156146,UMUC4,integrated,10
+156147,UMUC5,integrated,10
+156148,UMUC6,integrated,10
+156149,UMUC7,integrated,10
+156150,UMUC9,integrated,10
+156151,UWB1289,integrated,10
+156152,WIL2NS,integrated,10
+156153,WM1552C,integrated,10
+156154,Y79,integrated,10
+156155,YMB1E,integrated,10
+156156,MV411CAS9_ENGINEERED,CCLE,50
+156157,LN464CAS9_ENGINEERED,CCLE,50
+156158,LN382CAS9_ENGINEERED,CCLE,50
+156159,RS2,integrated,10
+156160,SHI1,integrated,10
+156161,OZ,integrated,10
+156162,SA3,integrated,10
+156163,A673STAG2KO16_ENGINEERED,CCLE,50
+156164,A673STAG2KO45_ENGINEERED,CCLE,50
+156165,A673STAG2NT14_ENGINEERED,CCLE,50
+156166,A673STAG2NT23_ENGINEERED,CCLE,50
+156167,PATU8988TKRASKOSG2219_ENGINEERED,CCLE,50
+156168,PATU8988TKRASKOSG2222_ENGINEERED,CCLE,50
+156169,PATU8988TKRASKOSG248_ENGINEERED,CCLE,50
+156170,PATU8988TKRASKOSG8853_ENGINEERED,CCLE,50
+156171,PATU8988TKRASKOSG8864_ENGINEERED,CCLE,50
+156172,PATU8988TKRASKOSG8875_ENGINEERED,CCLE,50
+156173,PATU8988TKRASNTA_ENGINEERED,CCLE,50
+156174,PATU8988TKRASNTD_ENGINEERED,CCLE,50
+156175,PATU8988TKRASNTF_ENGINEERED,CCLE,50
+156176,U937SMC3HET2_ENGINEERED,CCLE,50
+156177,U937STAG2KO1_ENGINEERED,CCLE,50
+156178,U937STAG2KO2_ENGINEERED,CCLE,50
+156179,U937STAG2NT1_ENGINEERED,CCLE,50
+156180,U937STAG2NT2_ENGINEERED,CCLE,50
+156181,HCT116ARID1AHOM,integrated,10
+156182,U937STAG2KOG2C5_ENGINEERED,CCLE,50
+156183,U937STAG2KOG2D5C_ENGINEERED,CCLE,50
+156184,U937STAG2KOG2E1_ENGINEERED,CCLE,50
+156185,U937STAG2KOG2G8B_ENGINEERED,CCLE,50
+156186,U937NCB12_ENGINEERED,CCLE,50
+156187,U937NCB1_ENGINEERED,CCLE,50
+156188,U937NCB2A_ENGINEERED,CCLE,50
+156189,U937NCC4_ENGINEERED,CCLE,50
+156190,PATU8988T_KRAS_KO_01.222-311Cas9_ENGINEERED,CCLE,50
+156191,PATU8988T_KRAS_KO_02.864-311Cas9_ENGINEERED,CCLE,50
+156192,PATU8988T_KRAS_KO_02.875-311Cas9_ENGINEERED,CCLE,50
+156193,PATU8988T_NC_A1-311Cas9_ENGINEERED,CCLE,50
+156194,PATU8988T_NC_D1-311Cas9_ENGINEERED,CCLE,50
+156195,PATU8988T_NC_F1-311Cas9_ENGINEERED,CCLE,50
+156196,PATU8988T_KRAS_KO_02.853-311Cas9_ENGINEERED,CCLE,50
+156197,HCT116ARID1AKOHD104031_ENGINEERED,CCLE,50
+156198,HCT116ARID1AKOHD104049_ENGINEERED,CCLE,50
+156199,YAFUSS,integrated,10
+156200,CHLA01,integrated,10
+156201,CUEWS88755,integrated,10
+156202,COGW408,integrated,10
+156203,COGH430,integrated,10
+156204,CHLA200,integrated,10
+156205,CHLA259,integrated,10
+156206,PEDS056,integrated,10
+156207,CDDB:156207,CDDB id,410
+156208,PEDS037,integrated,10
+156209,SF10067,integrated,10
+156210,SF10074,integrated,10
+156211,SF10767,integrated,10
+156212,MED311,integrated,10
+156213,ATRFLOX,integrated,10
+156214,CATES1B,integrated,10
+156215,GH329,integrated,10
+156216,GH354,integrated,10
+156217,H1HELA,integrated,10
+156218,HDMB03,integrated,10
+156219,HUMANOVARIANCARCINOMAEPITHELIALCELLS,integrated,10
+156220,HUMANPROSTATECARCINOMAEPITHELIALCELLS,integrated,10
+156221,NBLS,integrated,10
+156222,NGP,integrated,10
+156223,OCIP5X,integrated,10
+156224,OCIP8P,integrated,10
+156225,OCIP9A1,integrated,10
+156226,PACADD183,integrated,10
+156227,TO14,integrated,10
+156228,UACC1179,integrated,10
+156229,UACC462,integrated,10
+156230,UACC732,integrated,10
+156231,VP303,integrated,10
+156232,WPE1NA22,integrated,10
+156233,CCLFPEDS0002T,integrated,10
+156234,PEDS017,integrated,10
+156235,PEDS019,integrated,10
+156236,CCLFPEDS0007T,integrated,10
+156237,CCLFPEDS0010T,integrated,10
+156238,CCLFPEDS0009T,integrated,10
+156239,SNU408,integrated,10
+156240,MSKB9,integrated,10
+156241,1156QE8,integrated,10
+156242,1411H,integrated,10
+156243,1618K,integrated,10
+156244,1777NRPMET,integrated,10
+156245,577MF,integrated,10
+156246,833KE,integrated,10
+156247,BEWO,integrated,10
+156248,BICR3,integrated,10
+156249,BICR82,integrated,10
+156250,BL100,integrated,10
+156251,CHLA11,integrated,10
+156252,CHLA12,integrated,10
+156253,CHLA122,integrated,10
+156254,CHLA136,integrated,10
+156255,CHLA140,integrated,10
+156256,CHLA144,integrated,10
+156257,CHLA145,integrated,10
+156258,CHLA171,integrated,10
+156259,CHLA172,integrated,10
+156260,CHLA20,integrated,10
+156261,CHLA225,integrated,10
+156262,CHLA247,integrated,10
+156263,CHLA253,integrated,10
+156264,CHLA42,integrated,10
+156265,CHLA52,integrated,10
+156266,CHLA53,integrated,10
+156267,CHLA60,integrated,10
+156268,CHLA61,integrated,10
+156269,CHLA79,integrated,10
+156270,CHLA95,integrated,10
+156271,CHP100,integrated,10
+156272,CI,integrated,10
+156273,CII,integrated,10
+156274,COGN291,integrated,10
+156275,COGN316,integrated,10
+156276,COGN321,integrated,10
+156277,DND39,integrated,10
+156278,DOGKIT,integrated,10
+156279,DOGUM,integrated,10
+156280,EMTOKA,integrated,10
+156281,FLAM76,integrated,10
+156282,FTC236,integrated,10
+156283,GCT27,integrated,10
+156284,GUMBUS,integrated,10
+156285,H376,integrated,10
+156286,H413,integrated,10
+156287,HAC2,integrated,10
+156288,HCA1,integrated,10
+156289,HCS2,integrated,10
+156290,HCSC1,integrated,10
+156291,HG3,integrated,10
+156292,I83E95,integrated,10
+156293,KARPAS1718,integrated,10
+156294,KARPAS417,integrated,10
+156295,KHOS312H,integrated,10
+156296,KKU055,integrated,10
+156297,KKU213,integrated,10
+156298,KML1,integrated,10
+156299,KMLS1,integrated,10
+156300,KOSC2CL343,integrated,10
+156301,LI90,integrated,10
+156302,LO68,integrated,10
+156303,LS,integrated,10
+156304,MEGA2,integrated,10
+156305,MM138,integrated,10
+156306,MO,integrated,10
+156307,MOB,integrated,10
+156308,MOLM1,integrated,10
+156309,MOLM20,integrated,10
+156310,NCCOVCK119,integrated,10
+156311,NCCRBC39,integrated,10
+156312,NCCRBC51,integrated,10
+156313,NCCRBC53,integrated,10
+156314,NCCRBC54,integrated,10
+156315,NCCRBC56,integrated,10
+156316,NCCRBC57,integrated,10
+156317,NCCRBC59,integrated,10
+156318,NCCRBC67,integrated,10
+156319,NCCRBC83,integrated,10
+156320,NCCRBC92,integrated,10
+156321,NCCRBCT1,integrated,10
+156322,NCIH2108,integrated,10
+156323,NCIH2195,integrated,10
+156324,NCIH220,integrated,10
+156325,NCIH865,integrated,10
+156326,NJG,integrated,10
+156327,NOZ,integrated,10
+156328,NP2,integrated,10
+156329,NP3,integrated,10
+156330,OCIAML1,integrated,10
+156331,OCIAML4,integrated,10
+156332,OCIAML6,integrated,10
+156333,OCILY18,integrated,10
+156334,OCIM2,integrated,10
+156335,OCUG1,integrated,10
+156336,ONDA10,integrated,10
+156337,ONDA11,integrated,10
+156338,ONDA7,integrated,10
+156339,ONDA8,integrated,10
+156340,P4E6,integrated,10
+156341,PEA1,integrated,10
+156342,PEA2,integrated,10
+156343,PEO16,integrated,10
+156344,PEO4,integrated,10
+156345,PEO6,integrated,10
+156346,PGA1,integrated,10
+156347,PNT1A,integrated,10
+156348,RB247C,integrated,10
+156349,SCCH196,integrated,10
+156350,SERBOB,integrated,10
+156351,SHMAC4,integrated,10
+156352,SHMAC5,integrated,10
+156353,SKGI,integrated,10
+156354,SKGII,integrated,10
+156355,SNU1528,integrated,10
+156356,SNU1553,integrated,10
+156357,SNU1581,integrated,10
+156358,SNU1958,integrated,10
+156359,SNU2372,integrated,10
+156360,SNU334,integrated,10
+156361,STC1,integrated,10
+156362,SUCCS1,integrated,10
+156363,SUSA,integrated,10
+156364,TANOUE,integrated,10
+156365,TERA1,integrated,10
+156366,TERA2,integrated,10
+156367,TR146,integrated,10
+156368,TY82,integrated,10
+156369,U2904,integrated,10
+156370,U2940,integrated,10
+156371,U2973,integrated,10
+156372,UACC1598,integrated,10
+156373,UACC2087,integrated,10
+156374,UACC3133,integrated,10
+156375,UCSDAML1,integrated,10
+156376,UHO1,integrated,10
+156377,ULA,integrated,10
+156378,UOCM1,integrated,10
+156379,UPCISCC026,integrated,10
+156380,UPCISCC029A,integrated,10
+156381,UPCISCC040,integrated,10
+156382,UPCISCC072,integrated,10
+156383,UPCISCC074,integrated,10
+156384,UPCISCC099,integrated,10
+156385,UPCISCC111,integrated,10
+156386,UPCISCC114,integrated,10
+156387,UPCISCC116,integrated,10
+156388,UPCISCC131,integrated,10
+156389,UPCISCC172,integrated,10
+156390,UPCISCC200,integrated,10
+156391,VP267,integrated,10
+156392,WAC3CD5,integrated,10
+156393,WAOSEL,integrated,10
+156394,WSUFSCCL,integrated,10
+156395,HS860T,integrated,10
+156396,HS704,integrated,10
+156397,HS707T,integrated,10
+156398,OCIC1P,integrated,10
+156399,OCIC2P,integrated,10
+156400,OCIC4P,integrated,10
+156401,OCIP1A,integrated,10
+156402,OCIP2A,integrated,10
+156403,OCIP7A,integrated,10
+156404,OCID1P,integrated,10
+156405,OCICSP,integrated,10
+156406,OCIU1A,integrated,10
+156407,OCIE1P,integrated,10
+156408,OCIEP1P,integrated,10
+156409,OCIM1P,integrated,10
+156410,OCIE3X,integrated,10
+156411,OCIP9A2,integrated,10
+156412,FCIP1P,integrated,10
+156413,FCIP2P,integrated,10
+156414,SNUATRT1,integrated,10
+156415,SNUATRT5,integrated,10
+156416,SEMK2,integrated,10
+156417,HB1119,integrated,10
+156418,RMS,integrated,10
+156419,NRS1,integrated,10
+156420,NUTOS,integrated,10
+156421,RUCH3,integrated,10
+156422,BIRCH,integrated,10
+156423,U937GC1A1_ENGINEERED,CCLE,50
+156424,U937GC3E1_ENGINEERED,CCLE,50
+156425,U937STAG2A2F11_ENGINEERED,CCLE,50
+156426,U937STAG2A2G4_ENGINEERED,CCLE,50
+156427,RDPCDNA2_ENGINEERED,CCLE,50
+156428,MPNST605,integrated,10
+156429,MPNST176,integrated,10
+156430,MPNST14,integrated,10
+156431,MPNST69,integrated,10
+156432,K562-GC1-1_ENGINEERED,CCLE,50
+156433,K562-GC1-2_ENGINEERED,CCLE,50
+156434,K562-SMC3-F9_ENGINEERED,CCLE,50
+156435,K562-SMC3-H9_ENGINEERED,CCLE,50
+156436,K562-STAG2-C2_ENGINEERED,CCLE,50
+156437,K562-STAG2-D5_ENGINEERED,CCLE,50
+156438,TF1-GC1-1_ENGINEERED,CCLE,50
+156439,TF1-GC1-2_ENGINEERED,CCLE,50
+156440,TF1-SMC3-C6_ENGINEERED,CCLE,50
+156441,TF1-SMC3-D6_ENGINEERED,CCLE,50
+156442,TF1-STAG2-A10_ENGINEERED,CCLE,50
+156443,TF1-STAG2-B6_ENGINEERED,CCLE,50
+156444,U937GC11,integrated,10
+156445,U937GC13,integrated,10
+156446,U937SMC3H10,integrated,10
+156447,U937SMC3H8,integrated,10
+156448,U937STAG2A2,integrated,10
+156449,U937STAG2E10,integrated,10
+156450,BECK10,integrated,10
+156451,LPS6,integrated,10
+156452,LPS21,integrated,10
+156453,LPS27,integrated,10
+156454,93T449,integrated,10
+156455,94T778,integrated,10
+156456,95T1000,integrated,10
+156457,LPS26,integrated,10
+156458,NRHLS1,integrated,10
+156459,LPS141,integrated,10
+156460,LPS141239,integrated,10
+156461,LPS141266,integrated,10
+156462,LPS853,integrated,10
+156463,LPS510,integrated,10
+156464,LPS407,integrated,10
+156465,LPS789,integrated,10
+156466,LPS067,integrated,10
+156467,LPS695,integrated,10
+156468,LPS774,integrated,10
+156469,C202,integrated,10
+156470,C219,integrated,10
+156471,C232,integrated,10
+156472,C242,integrated,10
+156473,OS252,integrated,10
+156474,C387,integrated,10
+156475,C389,integrated,10
+156476,C393,integrated,10
+156477,C396,integrated,10
+156478,M4A4,integrated,10
+156479,NM2C5,integrated,10
+156480,RH6,integrated,10
+156481,HCC1739BL,integrated,10
+156482,381T,integrated,10
+156483,RH3,integrated,10
+156484,RH5,integrated,10
+156485,TTC516,integrated,10
+156486,ICC1,integrated,10
+156487,ICC10,integrated,10
+156488,ICC106,integrated,10
+156489,ICC108,integrated,10
+156490,ICC11,integrated,10
+156491,ICC12,integrated,10
+156492,ICC137,integrated,10
+156493,ICC14,integrated,10
+156494,ICC15,integrated,10
+156495,ICC2,integrated,10
+156496,ICC3,integrated,10
+156497,ICC4,integrated,10
+156498,ICC5,integrated,10
+156499,ICC6,integrated,10
+156500,ICC7,integrated,10
+156501,ICC8,integrated,10
+156502,ICC9,integrated,10
+156503,G415,integrated,10
+156504,GBD1,integrated,10
+156505,HKGZCC,integrated,10
+156506,KMCH1,integrated,10
+156507,MMNK1,integrated,10
+156508,RBE,integrated,10
+156509,SG231,integrated,10
+156510,SSP25,integrated,10
+156511,TGBC14TKB,integrated,10
+156512,TGBC52TKB,integrated,10
+156513,TKKK,integrated,10
+156514,YSCCC,integrated,10
+156515,FRM101,integrated,10
+156516,FRM134,integrated,10
+156517,MELSOE,integrated,10
+156518,MEL1479,integrated,10
+156519,WM1366,integrated,10
+156520,MELLE,integrated,10
+156521,WM139,integrated,10
+156522,GRMEL9,integrated,10
+156523,FRM119,integrated,10
+156524,FRM204,integrated,10
+156525,GRMEL8,integrated,10
+156526,FM70,integrated,10
+156527,MAMEL6,integrated,10
+156528,MAMEL25,integrated,10
+156529,UKRVMEL30,integrated,10
+156530,UKRVMEL13,integrated,10
+156531,MAMEL20,integrated,10
+156532,FRM170,integrated,10
+156533,MAMEL7,integrated,10
+156534,MAMEL10,integrated,10
+156535,GRMEL3,integrated,10
+156536,MZMEL3,integrated,10
+156537,MAMEL47,integrated,10
+156538,MAMEL56,integrated,10
+156539,MAMEL55,integrated,10
+156540,KNUD,integrated,10
+156541,UKRVMEL3,integrated,10
+156542,UKRVMEL25,integrated,10
+156543,MAMEL71,integrated,10
+156544,UKRVMEL17,integrated,10
+156545,MAMEL28,integrated,10
+156546,MAMEL15,integrated,10
+156547,MEL1359,integrated,10
+156548,UKRVMEL2,integrated,10
+156549,MELWL,integrated,10
+156550,UKRVMEL38,integrated,10
+156551,ME501,integrated,10
+156552,ME15392,integrated,10
+156553,MELNT900,integrated,10
+156554,MAMEL33,integrated,10
+156555,MAMEL1,integrated,10
+156556,MELLG,integrated,10
+156557,MELNT200,integrated,10
+156558,MELNT300,integrated,10
+156559,MELNT100,integrated,10
+156560,MELNT500,integrated,10
+156561,MAMEL74,integrated,10
+156562,MAMEL52,integrated,10
+156563,MAMEL4,integrated,10
+156564,MAMEL46,integrated,10
+156565,MAMEL65,integrated,10
+156566,UKRVMEL31,integrated,10
+156567,CCLP1,integrated,10
+156568,GB2,integrated,10
+156569,JU77,integrated,10
+156570,MM576,integrated,10
+156571,NZM1,integrated,10
+156572,NZM11,integrated,10
+156573,NZM2,integrated,10
+156574,NZM4,integrated,10
+156575,NZM5,integrated,10
+156576,NZM7,integrated,10
+156577,NZOV9,integrated,10
+156578,ONE58,integrated,10
+156579,NALM16,integrated,10
+156580,ICC16,integrated,10
+156581,ICC17,integrated,10
+156582,ICC18,integrated,10
+156583,ECC2,integrated,10
+156584,ICC19,integrated,10
+156585,9505BIK,integrated,10
+156586,A375_SKIN_CJ1_RESISTANT,CCLE,50
+156587,A375_SKIN_CJ2_RESISTANT,CCLE,50
+156588,A375_SKIN_CJ3_RESISTANT,CCLE,50
+156589,UACC62_SKIN_CJ1_RESISTANT,CCLE,50
+156590,SKMEL19_SKIN_CJ1_RESISTANT,CCLE,50
+156591,SKMEL19_SKIN_CJ2_RESISTANT,CCLE,50
+156592,MP38,integrated,10
+156593,MP41,integrated,10
+156594,MP46,integrated,10
+156595,MP65,integrated,10
+156596,MM28,integrated,10
+156597,MEL290,integrated,10
+156598,HOKUG,integrated,10
+156599,T3M3,integrated,10
+156600,PMFKO14,integrated,10
+156601,TGBC18TKB,integrated,10
+156602,TT1TKB,integrated,10
+156603,HOUAI,integrated,10
+156604,H111TC,integrated,10
+156605,TUHR25TKB,integrated,10
+156606,HMMME,integrated,10
+156607,T3M11,integrated,10
+156608,LCAM1,integrated,10
+156609,WAHT,integrated,10
+156610,TN1,integrated,10
+156611,HSKTC,integrated,10
+156612,HOTHC,integrated,10
+156613,T3M5,integrated,10
+156614,HSQ89,integrated,10
+156615,HTMMT,integrated,10
+156616,HIRSBM,integrated,10
+156617,RMSYM,integrated,10
+156618,HGRT,integrated,10
+156619,HTST,integrated,10
+156620,LU140,integrated,10
+156621,TL1,integrated,10
+156622,ILTMAT,integrated,10
+156623,OIH1,integrated,10
+156624,MY,integrated,10
+156625,P2URK562,integrated,10
+156626,HTMM,integrated,10
+156627,HSPSS,integrated,10
+156628,HSSCH2,integrated,10
+156629,NOS2,integrated,10
+156630,HSOS1,integrated,10
+156631,HKBMM,integrated,10
+156632,FURPNT1,integrated,10
+156633,FURPNT2,integrated,10
+156634,LU143,integrated,10
+156635,LU138,integrated,10
+156636,T3M12,integrated,10
+156637,HSNB,integrated,10
+156638,TN2,integrated,10
+156639,KPNNS,integrated,10
+156640,MMAC,integrated,10
+156641,TGBC50TKB,integrated,10
+156642,A129L,integrated,10
+156643,21PT,integrated,10
+156644,21NT,integrated,10
+156645,21MT1,integrated,10
+156646,21MT2,integrated,10
+156647,H16N2,integrated,10
+156648,CCLFMELM0001T,integrated,10
+156649,CCLFMELM0002T,integrated,10
+156650,CCLFMELM0003T,integrated,10
+156651,CCLFMELM0005T,integrated,10
+156652,CCLFNEURO0003T,integrated,10
+156653,CCLFNEURO0006T,integrated,10
+156654,CCLFNEURO0007T,integrated,10
+156655,CCLFNEURO0008T,integrated,10
+156656,CCLFNEURO0009T,integrated,10
+156657,CCLFNEURO0010T,integrated,10
+156658,CCLFNEURO0011T,integrated,10
+156659,CCLFNEURO0013T,integrated,10
+156660,CCLFNEURO0014T,integrated,10
+156661,CCLFNEURO0015T,integrated,10
+156662,CCLFNEURO0017T,integrated,10
+156663,CCLFOVPA0001T,integrated,10
+156664,CCLFPANC0005T,integrated,10
+156665,CCLFPANC0006T,integrated,10
+156666,CCLFPANC0008T,integrated,10
+156667,CCLFPANC0010T,integrated,10
+156668,CCLFPANC0014T,integrated,10
+156669,CCLFPANC0020T,integrated,10
+156670,CCLFPANC0022T,integrated,10
+156671,CCLFPEDS0014T1,integrated,10
+156672,CCLFPEDS0017T2,integrated,10
+156673,CCLFPEDS0019T,integrated,10
+156674,CCLFPEDS0021T,integrated,10
+156675,CCLFPEDS0022T,integrated,10
+156676,CCLFPEDS0023T,integrated,10
+156677,CCLFPEDS0026T,integrated,10
+156678,CCLFTHYR0008T,integrated,10
+156679,CCLFTHYR0010T,integrated,10
+156680,CCLFUPGI0002T1,integrated,10
+156681,CCLFUPGI0002T2,integrated,10
+156682,CCLFUPGI0003T,integrated,10
+156683,CCLFUPGI0004T,integrated,10
+156684,CCLFUPGI0005T,integrated,10
+156685,CCLFUPGI0006T,integrated,10
+156686,CCLFPANC0021T,integrated,10
+156687,CCLFNEURO0021T,integrated,10
+156688,CCLFNEURO0023T,integrated,10
+156689,CCLFNEURO0026T,integrated,10
+156690,CCLFNEURO0027T,integrated,10
+156691,CCLFNEURO0031T,integrated,10
+156692,CCLFNEURO0032T,integrated,10
+156693,CCLFNEURO0034T,integrated,10
+156694,CCLFNEURO0035T,integrated,10
+156695,CCLFNEURO0037T,integrated,10
+156696,HT144_SKIN_FV1_RESISTANT,CCLE,50
+156697,HT144_SKIN_FV3_RESISTANT,CCLE,50
+156698,HT144_SKIN_FV2_RESISTANT,CCLE,50
+156699,RVH421_SKIN_FV1_RESISTANT,CCLE,50
+156700,RPE1SS48_ENGINEERED,CCLE,50
+156701,RPE1SS77_ENGINEERED,CCLE,50
+156702,RPE1SS6_ENGINEERED,CCLE,50
+156703,RPE1SS119_ENGINEERED,CCLE,50
+156704,RPE1SS111_ENGINEERED,CCLE,50
+156705,RPE1SS51_ENGINEERED,CCLE,50
+156706,PSS154,integrated,10
+156707,PSS004,integrated,10
+156708,PSS089,integrated,10
+156709,PSS008,integrated,10
+156710,PSS031,integrated,10
+156711,HAP1_ENGINEERED,CCLE,50
+156712,HAP1MLH1KO_ENGINEERED,CCLE,50
+156713,HCT116PA_ENGINEERED,CCLE,50
+156714,NCIH69SB,integrated,10
+156715,PEDS037TFM,integrated,10
+156716,U937SMC3HET1_ENGINEERED,CCLE,50
+156717,HTCC116MUTHOM,integrated,10
+156718,BC2,integrated,10
+156719,CHLA03AA,integrated,10
+156720,E006AAHT,integrated,10
+156721,HS602,integrated,10
+156722,HS769T,integrated,10
+156723,MAVER1,integrated,10
+156724,MESOV,integrated,10
+156725,MUGCC1,integrated,10
+156726,UCH11,integrated,10
+156727,IOWA1T,integrated,10
+156728,NCIH920,integrated,10
+156729,UACC3199,integrated,10
+156730,Z138,integrated,10
+156731,SW48-G12V,CTD2 Dashboard,40
+156732,T24-SOX4-KD,CTD2 Dashboard,40
+156733,RMZ,integrated,10
+156734,CCA,integrated,10
+156735,UCH17S,integrated,10
+156736,UCH7,integrated,10
+156737,CCLFNEURO0039T,integrated,10
+156738,CCLFNEURO0040T,integrated,10
+156739,WM4235,integrated,10
+156740,M040416,integrated,10
+156741,M140325,integrated,10
+156742,M1610113,integrated,10
+156743,C079,integrated,10
+156744,40291,integrated,10
+156745,176592,integrated,10
+156746,A2780ADR,integrated,10
+156747,A2780CIS,integrated,10
+156748,HTERTRPE1_ENGINEERED,CCLE,50
+156749,SNU739,integrated,10
+156750,SNU251,integrated,10
+156751,SNU333,integrated,10
+156752,SNU1327,integrated,10
+156753,SNU267,integrated,10
+156754,SNU2535,integrated,10
+156755,SNU482,integrated,10
+156756,SNU228,integrated,10
+156757,SNU484,integrated,10
+156758,SNU769B,integrated,10
+156759,SNU1967,integrated,10
+156760,SNU1406,integrated,10
+156761,ML1HUMANLEUKEMIA,integrated,10
+156762,2B8,integrated,10
+156763,COLO206F,integrated,10
+156764,UE6E7T3_MATCHED_NORMAL_TISSUE,CCLE,50
+156765,EM3,integrated,10
+156766,MOLT14,integrated,10
+156767,BE2C,integrated,10
+156768,HEP2,integrated,10
+156769,RKOE6,integrated,10
+156770,COLO200_MATCHED_NORMAL_TISSUE,CCLE,50
+156771,HP,integrated,10
+156772,HX,integrated,10
+156773,SNGP,integrated,10
+156774,TGBC2TKB,integrated,10
+156775,NCOL1,integrated,10
+156776,KP3L,integrated,10
+156777,KP3N,integrated,10
+156778,OVSAYO,integrated,10
+156779,ML3,integrated,10
+156780,JURLMK2,integrated,10
+156781,LAMA87,integrated,10
+156782,COLO197_MATCHED_NORMAL_TISSUE,CCLE,50
+156783,MCCARZ2_MATCHED_NORMAL_TISSUE,CCLE,50
+156784,A3,integrated,10
+156785,I21,integrated,10
+156786,I92,integrated,10
+156787,JKTBETADEL,integrated,10
+156788,JURKATCLONEE61,integrated,10
+156789,EFM192B,integrated,10
+156790,EFM192C,integrated,10
+156791,CORL23R,integrated,10
+156792,RERFLCMA,integrated,10
+156793,RWPE1_MATCHED_NORMAL_TISSUE,CCLE,50
+156794,RWPE2_MATCHED_NORMAL_TISSUE,CCLE,50
+156795,RWPE2W99_MATCHED_NORMAL_TISSUE,CCLE,50
+156796,MALME3_MATCHED_NORMAL_TISSUE,CCLE,50
+156797,EW2,integrated,10
+156798,MARCUS,integrated,10
+156799,COLO685,integrated,10
+156800,RF1,integrated,10
+156801,TDL4,integrated,10
+156802,NAMALWAPNT,integrated,10
+156803,HCC1428BL_MATCHED_NORMAL_TISSUE,CCLE,50
+156804,NCIBL2141_MATCHED_NORMAL_TISSUE,CCLE,50
+156805,NCIBL2347_MATCHED_NORMAL_TISSUE,CCLE,50
+156806,WIL2S_MATCHED_NORMAL_TISSUE,CCLE,50
+156807,AGRON,integrated,10
+156808,SACC83,integrated,10
+156809,COLO699N,integrated,10
+156810,NCIH1870,integrated,10
+156811,NCIH1881,integrated,10
+156812,SBC2,integrated,10
+156813,HEYC2,integrated,10
+156814,IOSE364,integrated,10
+156815,IOSE397,integrated,10
+156816,IOSE523,integrated,10
+156817,IOSE7516SV40,integrated,10
+156818,HS630T,integrated,10
+156819,RPMI7932,integrated,10
+156820,WM1651,integrated,10
+156821,WM293A,integrated,10
+156822,M1203262,integrated,10
+156823,PEAZ1,integrated,10
+156824,COLO738,integrated,10
+156825,TMH1,integrated,10
+156826,MESSADX5,integrated,10
+156827,MESSAMX2,integrated,10
+156828,CARNAVAL,integrated,10
+156829,GRANTA452,integrated,10
+156830,MEGAL,integrated,10
+156831,MHHTALL2,integrated,10
+156832,CCC5,integrated,10
+156833,CX03,integrated,10
+156834,ETCC016,integrated,10
+156835,FKH1,integrated,10
+156836,GFD8,integrated,10
+156837,JIH5,integrated,10
+156838,JVE015,integrated,10
+156839,JVE017,integrated,10
+156840,JVE059,integrated,10
+156841,JVE109,integrated,10
+156842,JVE114,integrated,10
+156843,JVE127,integrated,10
+156844,JVE187,integrated,10
+156845,JVE192,integrated,10
+156846,JVE207,integrated,10
+156847,JVE222,integrated,10
+156848,JVE253,integrated,10
+156849,JVE367,integrated,10
+156850,JVE371,integrated,10
+156851,JVE528,integrated,10
+156852,KASUMI3,integrated,10
+156853,KP363T,integrated,10
+156854,LAZ221,integrated,10
+156855,MAPACHS77,integrated,10
+156856,MCC60,integrated,10
+156857,MKPL1,integrated,10
+156858,SH2,integrated,10
+156859,TK6,integrated,10
+156860,U2946,integrated,10
+156861,WILL1,integrated,10
+156862,WILL2,integrated,10
+156863,170MGBA,integrated,10
+156864,583MGBA,integrated,10
+156865,BLN3,integrated,10
+156866,WM3772F,integrated,10
+156867,PSS141,integrated,10
+156868,PSS050,integrated,10
+156869,PSS112,integrated,10
+156870,ST8814,integrated,10
+156871,908TL,integrated,10
+156872,S462,integrated,10
+156873,SNF962,integrated,10
+156874,STS26T,integrated,10
+156875,CCLFNEURO0029T,integrated,10
+156876,CCLFNEURO0045T,integrated,10
+156877,CCLFNEURO0038T,integrated,10
+156878,CCLFNEURO0025T,integrated,10
+156879,CCLFNEURO0047T,integrated,10
+156880,CCLFNEURO0024T,integrated,10
+156881,CCLFNEURO0033T,integrated,10
+156882,OANC1,integrated,10
+156883,TB471,integrated,10
+156884,IS076P,integrated,10
+156885,IS076A,integrated,10
+156886,IMSM2,integrated,10
+156887,DL221,integrated,10
+156888,CMS,integrated,10
+156889,MPNST724,integrated,10
+156890,UMHACC2A,integrated,10
+156891,HACAT,integrated,10
+156892,CCLFNEURO0054T,integrated,10
+156893,CCLFNEURO0055T,integrated,10
+156894,CCLFNEURO0056T,integrated,10
+156895,MO91,integrated,10
+156896,OSUDES76,integrated,10
+156897,OSUDES91,integrated,10
+156898,OSUDES168,integrated,10
+156899,OSUDES236,integrated,10
+156900,OSUDES13,integrated,10
+156901,OSUDES23,integrated,10
+156902,OSUDES157,integrated,10
+156903,OSUDES186,integrated,10
+156904,OSUDES9,integrated,10
+156905,OSUDES93,integrated,10
+156906,NH15T,integrated,10
+156907,NH48T,integrated,10
+156908,NH64T,integrated,10
+156909,CCLFUPGI0009T,integrated,10
+156910,CCLFUPGI0032T,integrated,10
+156911,CCLFAB1049TASC,integrated,10
+156912,CCLFUPGI0040T,integrated,10
+156913,CCLFCRCRF1001T,integrated,10
+156914,CCLFUPGI0051T,integrated,10
+156915,CCLFUPGI0052T,integrated,10
+156916,CCLFUPGI0058T,integrated,10
+156917,PANFR0420,integrated,10
+156918,PANFR0350,integrated,10
+156919,PANFR0465,integrated,10
+156920,PANFR0388,integrated,10
+156921,PANFR0233,integrated,10
+156922,PANFR0368,integrated,10
+156923,PANFR0402,integrated,10
+156924,PANFR0069,integrated,10
+156925,CCLFUPGI0050T,integrated,10
+156926,CCLFUPGI0064T,integrated,10
+156927,CCLFUPGI0065T,integrated,10
+156928,CCLFNEURO0075T,integrated,10
+156929,CCLFLUPA0003T,integrated,10
+156930,CCLFUPGI0066T,integrated,10
+156931,CCLFNEURO0085T,integrated,10
+156932,CCLFUPGI0067T,integrated,10
+156933,CCLFNEURO0076T,integrated,10
+156934,CCLFMELM0014T,integrated,10
+156935,CCLFNEURO0077T,integrated,10
+156936,CCLFUPGI0068T,integrated,10
+156937,CCLFUPGI0069T,integrated,10
+156938,CCLFPANC0072T,integrated,10
+156939,CCLFUPGI0070T,integrated,10
+156940,CCLFUPGI0071T,integrated,10
+156941,CCLFUPGI0062T,integrated,10
+156942,CCLFUPGI0072T,integrated,10
+156943,CCLFNEURO0078T,integrated,10
+156944,CCLFNEURO0079T,integrated,10
+156945,CCLFNEURO0080T,integrated,10
+156946,CCLFNEURO0081T,integrated,10
+156947,CCLFRARE0009T,integrated,10
+156948,CCLFNEURO0084T,integrated,10
+156949,CCLFMELM0015T,integrated,10
+156950,CCLFMELM0016T,integrated,10
+156951,CCLFMELM0017T,integrated,10
+156952,CCLFMELM0018T,integrated,10
+156953,CCLFNEURO0082T,integrated,10
+156954,CCLFNEURO0083T,integrated,10
+156955,CCLFUPGI0060T,integrated,10
+156956,CCLFUPGI0061T,integrated,10
+156957,HOC8,CTD2 Dashboard,40
+156958,BM-MSC,CTD2 Dashboard,40
+156959,NCCOS1X2C1,integrated,10
+156960,NCCOS2C1,integrated,10
+156961,NCCES1C1,integrated,10
+156962,NCCDCS1C1,integrated,10
+156963,NCCUPS1C1,integrated,10
+156964,NCCUPS1X3C1,integrated,10
+156965,NCCUPS2C1,integrated,10
+156966,NCCLMS1C1,integrated,10
+156967,NCCLMS1X3C1,integrated,10
+156968,NCCPRMS1C1,integrated,10
+156969,NCCPRMS1X4C1,integrated,10
+156970,NCCSS1C1,integrated,10
+156971,NCCSS2C1,integrated,10
+156972,NCCCCS1BX2C1,integrated,10
+156973,NCCCCS1BC1,integrated,10
+156974,NCCCCS1X4C1,integrated,10
+156975,NCCMFS1C1,integrated,10
+156976,NCCCDS1X1C1,integrated,10
+156977,NCCCDS1X3C1,integrated,10
+156978,NCCDFSP1C1,integrated,10
+156979,NCCDFSP2C1,integrated,10
+156980,NCCMPNST1C1,integrated,10
+156981,NCCMPNST2C1,integrated,10
+156982,NCCMPNST3C1,integrated,10
+156983,NCCMPNST3X2C1,integrated,10
+156984,NCCMPNST4C1,integrated,10
+156985,NCCMPNST5C1,integrated,10
+156986,A03,integrated,10
+156987,TB096,integrated,10
+156988,BT1160,integrated,10
+156989,BT360,integrated,10
+156990,BT559,integrated,10
+156991,BT188,integrated,10
+156992,BT138,integrated,10
+156993,BT237,integrated,10
+156994,KURAMOCHIES1,integrated,10
+156995,KURAMOCHIES2,integrated,10
+156996,OVCAR4ES1,integrated,10
+156997,PSS131R,integrated,10
+156998,CCLFAB1004T,integrated,10
+156999,CCLFAB1016T,integrated,10
+157000,CCLFAB1017T,integrated,10
+157001,CCLFAB1031T,integrated,10
+157002,CCLFNH1002T,integrated,10
+157003,CCLFNH1003T,integrated,10
+157004,COL016T,integrated,10
+157005,CCLFNH1005T,integrated,10
+157006,CCLFRCRF1018T,integrated,10
+157007,CCLFRCRF1012T,integrated,10
+157008,YUHIMO091365C,integrated,10
+157009,YUSEEPM163517,integrated,10
+157010,YUHOIN0650,integrated,10
+157011,merged to CBBD:000092,CDDB id (merged),411
+157012,CCLFCRCRF1080T,integrated,10
+157013,CCLFKL1252T,integrated,10
+157014,CCLFKL1247T,integrated,10
+157015,CCLFKL1248T,integrated,10
+157016,CCLFKL1249T,integrated,10
+157017,CCLFKL1256T,integrated,10
+157018,CCLFKL1253T,integrated,10
+157019,CCLFKL1250T,integrated,10
+157020,CCLFKL1274T,integrated,10
+157021,CCLFBU1017T,integrated,10
+157022,CCLFNH1006T,integrated,10
+157023,CCLFRCRF1050T,integrated,10
+157024,CCLFCRCRF1017T,integrated,10
+157025,CCLFKL1201T,integrated,10
+157026,A375RPMI,integrated,10
+157027,RVH421RPMI,integrated,10
