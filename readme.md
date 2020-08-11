@@ -46,6 +46,6 @@
  - [`data\depmap\Achilles_gene_dependency.csv`](https://ndownloader.figshare.com/files/22629071)
  - [`data\depmap\D2_combined_gene_dep_scores.csv`](https://ndownloader.figshare.com/files/13515395)
  - [`data\depmap\CCLE_expression.csv`](https://ndownloader.figshare.com/files/22897976)
- - [`data\depmap\total-proteome-_v2-normalized-protein-abundance.csv`](https://cds.team/taiga/dataset/total-proteome--5c50/2#) **NEED PUBLIC LINK**
+ - [`data\depmap\total-proteome-_v2-normalized-protein-abundance.csv`](https://cds.team/taiga/dataset/total-proteome--5c50/2#)
  - [`data\depmap\CCLE_RPPA_20181003.csv`](https://depmap.org/portal/download/api/download/external?file_name=ccle%2Fccle_2019%2FCCLE_RPPA_20181003.csv)
- - [`data\depmap\CCLE_gene_cn.csv`](https://ndownloader.figshare.com/files/22629107)
+ - [`CCLE_gene_cn.csv`](https://ndownloader.figshare.com/files/22629107)
