@@ -1,5 +1,6 @@
 %% setup workspace
-wf = 'D:\job\ice'; addpath(wf); % path to iceopts.m, icenv.m, chkfile.m, tree.csv
+if (~exist('wf','var')), wf = pwd(); end
+assert(exist(wf,'dir')==7,'Directory %s not found.',wf); addpath(wf); 
 iceopts(wf,false,false);        % warnings on (T/F), 'use' mode on (T/F)
 clearvars -except a* wf;        % adapt as needed and preferred
 
