@@ -28,7 +28,7 @@
 
 ##### To ensure that we expose only public annotations, we whitelisted term mappings imported to CDDB from ArxSpan output files to ensure that any annotations from this internal source are also available in other public DepMap files, regardless of their annotation type. We used the most recent public DepMap sample information file (`sample_info.csv`) to ensure that each referenced cell line was present in the namespace constructed from CDDB. For transparency of this process, we include the `Pipeline Pilot` script we used to perform this process (`code/build/pp`), even though CDDB itself is not public.
 
-##### The output of this process is a set of four files that represent a value-add on top of several sources of public information, including the four Broad Institute projects listed above, plus additional public cell-line annotation data from `COSMIC`, `Cell Line Data Base`, and the `CTD^2 Dashboard`. These four files are included directly in this repository (`data\cddb`), which represent (as of **DepMap 20Q2**):
+##### The output of this process is a set of four files that represent a value-add on top of several sources of public information, including the four Broad Institute projects listed above, plus additional public cell-line annotation data from `COSMIC`, `Cell Line Data Base`, and the `CTD<sup>2</sup> Dashboard`. These four files are included directly in this repository (`data\cddb`), which represent (as of **DepMap 20Q2**):
 
  - `cell-line-best-names.csv`: numeric IDs for 3,302 distinct cell lines mapped to their highest-priority name
  - `cell-line-synon-names.csv`: 18,011 distinct validated names and synonyms for 3,302 cell lines
