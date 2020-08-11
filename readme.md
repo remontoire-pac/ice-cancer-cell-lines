@@ -1,7 +1,7 @@
 ## **ICE**
 ### interoperable, integrated CTD<sup>2</sup> cancer cell-line computational environment exemplar
 
-#### *Paul Clemons, Vlado Dancik, Joshua Dempster, Eugene Douglass, Kwat Medetgul-Ernar, Becky Kuzma, Sandrine Muller*
+#### *Paul Clemons, Vlado Dancik, Joshua Dempster, Eugene Douglass, Kwat Medetgul-Ernar, Becky Kuzma, Philip Montgomery, Sandrine Muller*
 
 ##### ICE is an environment to contain structured datasets in a modeling framework for computational biologists that was developed as part of a [CTD<sup>2</sup>](https://ocg.cancer.gov/programs/ctd2) Trans-Network Collaboration Project. ICE uses the [DepMap quarterly-release schedule](https://depmap.org/portal/) as a foundation to harmonize entity names and pre-align matrices of binary and numeric data to a common space of cell lines.
 
