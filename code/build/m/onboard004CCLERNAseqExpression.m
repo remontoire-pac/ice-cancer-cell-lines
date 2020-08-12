@@ -1,6 +1,8 @@
 %% setup workspace
-if (~exist('wf','var')), wf = pwd(); end
-assert(exist(wf,'dir')==7,'Directory %s not found.',wf); addpath(wf); 
+if (~exist('wf','var')) 
+    wf = regexp(matlab.desktop.editor.getActiveFilename,filesep,'split');
+    wf = strjoin(wf(1:(numel(wf)-4)),filesep); % ICE root folder
+end
 iceopts(wf,false,false);        % warnings on (T/F), 'use' mode on (T/F)
 clearvars -except a* wf;        % adapt as needed and preferred
 
