@@ -9,7 +9,6 @@ function T = chkfile(fn,msg,del,tt,rvn)
 %        https://www.mathworks.com/help/matlab/ref/readtable.html
 %
 
-
     if (nargin<5||isequal(rvn,[]))
         rvn = true;
     end

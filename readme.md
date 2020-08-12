@@ -42,6 +42,13 @@
 ##### Not included in this repository (but necessary to run an ICE build) are the source data files themselves, representing different types of data collected on various subsets of the cell lines. Here, we provide links to the data files, whenever possible using a link provided by DepMap to minimize the number of different locations. Regardless of point-of-origin, users downloading these files are responsible to abide by the license terms provided by the original source. The license for this repository covers only the code in this repository and the four data files described explicitly in this readme file.
 
  - [`data\sample_info.csv`](https://ndownloader.figshare.com/files/22629137)
+ - [`data\ctrp\v10.M1.informer_set.txt`](https://ctd2-data.nci.nih.gov/Public/Broad/CTRPv1.0_2013_pub_Cell_154_1151/CTRPv1.0_2013_pub_Cell_154_1151.zip)
+ - [`data\ctrp\v10.D3.area_under_conc_curve.txt`](https://ctd2-data.nci.nih.gov/Public/Broad/CTRPv1.0_2013_pub_Cell_154_1151/CTRPv1.0_2013_pub_Cell_154_1151.zip)
+ - [`data\ctrp\v20.meta.per_compound.txt`](https://ctd2-data.nci.nih.gov/Public/Broad/CTRPv2.0_2015_ctd2_ExpandedDataset/CTRPv2.0_2015_ctd2_ExpandedDataset.zip)
+ - [`data\ctrp\v20.meta.per_cell_line.txt`](https://ctd2-data.nci.nih.gov/Public/Broad/CTRPv2.0_2015_ctd2_ExpandedDataset/CTRPv2.0_2015_ctd2_ExpandedDataset.zip)
+ - [`data\ctrp\new-abs-auc-with-qc.txt`](https://github.com/remontoire-pac/ctrp-reference/blob/master/auc/new-abs-auc-with-qc.txt)
+ - [`data\depmap\sanger-dose-response.csv`](https://depmap.org/portal/download/api/download/external?file_name=processed_portal_downloads%2Fgdsc-drug-set-export-658c.5%2Fsanger-dose-response.csv)
+ - [`data\depmap\primary-screen-replicate-collapsed-logfold-change.csv`](https://ndownloader.figshare.com/files/20237709)
  - [`data\depmap\Achilles_gene_effect.csv`](https://ndownloader.figshare.com/files/22629068)
  - [`data\depmap\Achilles_gene_dependency.csv`](https://ndownloader.figshare.com/files/22629071)
  - [`data\depmap\D2_combined_gene_dep_scores.csv`](https://ndownloader.figshare.com/files/13515395)
