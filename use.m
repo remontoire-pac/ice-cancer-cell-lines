@@ -1,6 +1,6 @@
 %% setup workspace
 wf = 'D:\job\ice'; addpath(wf); % path to iceopts.m, icenv.m, chkfile.m, tree.csv
-iceopts(wf,false,true);        % warnings on (T/F), 'use' mode on (T/F)
+iceopts(wf,false,true);         % warnings on (T/F), 'use' mode on (T/F)
 clearvars -except a* wf;        % adapt as needed and preferred
 
 %% load environment from MAT files
