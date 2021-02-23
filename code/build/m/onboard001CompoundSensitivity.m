@@ -37,8 +37,25 @@ pmCTRPv1SensitivAUC = pmCTRPv1SensitivAUC(so1,:);
 clear CM* f* ncn* so* t*;
 
 %% CTRPv2 small-molecule sensitivity data
-% get unique cpd names and index into data
+% load relative sensitivity data
+tCM2 = chkfile('v20.data.curves_post_qc.txt','CTRPv2 relative sens','\t','string',true);
+tCM2 = tCM2(:,{'experiment_id','master_cpd_id','area_under_curve'});
+tCM2.Properties.VariableNames(3) = {'relative_auc'};
+assert(isequal(tCM2{:,[1 2]},unique(tCM2{:,[1 2]},'rows')),'Extra rows in relative AUC file.');
+% load absolute sensitivity data and re-capture relative AUC values
 CM2 = chkfile('new-abs-auc-with-qc.txt','CTRPv2 sensitivity','\t','string',true);
+CM2.relative_auc = nan(size(CM2,1),1);
+for ti=1:size(CM2,1)
+    try
+        CM2.relative_auc(ti) = ...
+            tCM2.relative_auc(tCM2.experiment_id==CM2.experiment_id(ti) & ...
+                              tCM2.master_cpd_id==CM2.master_cpd_id(ti));
+    catch
+        continue;
+    end
+end
+clear t*;
+% get unique cpd names and index into data
 [rnC2,~,fui2] = unique(CM2.master_cpd_id);
 % cross-check unique cpd names and sort metadata
 mtCTRPv2Sensitivity = chkfile('v20.meta.per_compound.txt','CTRPv2 compound info','\t','string',true);
@@ -60,15 +77,18 @@ assert(isequal(ncn2,unique(ncn2)),'Problem with CTRPv2 cell-line sort.');
 tm2a = spavg(CM2.area_under_curve,fui2,fuj2);
 tm2b = spavg(CM2.ec50_log2_umol,fui2,fuj2);
 tm2c = spavg(100-100*CM2.pred_pv_high_conc,fui2,fuj2);
-pmCTRPv2SensitivAUC = castcol(tm2a,ncn2,mxc);
+tm2d = spavg(CM2.relative_auc,fui2,fuj2);
+pmCTRPv2SensitivAUCabs = castcol(tm2a,ncn2,mxc);
 pmCTRPv2SensitivL2EC50 = castcol(tm2b,ncn2,mxc);
 pmCTRPv2SensitivMaxKil = castcol(tm2c,ncn2,mxc);
+pmCTRPv2SensitivAUCrel = castcol(tm2d,ncn2,mxc);
 % sort data and metadata, index metadata
 [mtCTRPv2Sensitivity,so2] = sortrows(mtCTRPv2Sensitivity,{'cpd_name'});
 mtCTRPv2Sensitivity = tabridx(mtCTRPv2Sensitivity);
-pmCTRPv2SensitivAUC = pmCTRPv2SensitivAUC(so2,:);
+pmCTRPv2SensitivAUCabs = pmCTRPv2SensitivAUCabs(so2,:);
 pmCTRPv2SensitivL2EC50 = pmCTRPv2SensitivL2EC50(so2,:);
 pmCTRPv2SensitivMaxKil = pmCTRPv2SensitivMaxKil(so2,:);
+pmCTRPv2SensitivAUCrel = pmCTRPv2SensitivAUCrel(so2,:);
 clear CM* f* ncn* so* t*;
 
 %% GDSC (v1+v2) small-molecule sensitivity data
@@ -118,9 +138,10 @@ clear CM* ncn* t*;
 %% write data and metadata variables to MAT file and CSV files
 save build\mat\ice001CompoundSensitivity.mat *Sensitiv*;
 mat2csv(1,pmCTRPv1SensitivAUC,mtCTRPv1Sensitivity,'ctrpv1_cpd_sens_auc',wf);
-mat2csv(1,pmCTRPv2SensitivAUC,mtCTRPv2Sensitivity,'ctrpv2_cpd_sens_auc',wf);
+mat2csv(1,pmCTRPv2SensitivAUCabs,mtCTRPv2Sensitivity,'ctrpv2_cpd_sens_auc_abs',wf);
 mat2csv(1,pmCTRPv2SensitivL2EC50,mtCTRPv2Sensitivity,'ctrpv2_cpd_sens_l2ec50',wf);
 mat2csv(1,pmCTRPv2SensitivMaxKil,mtCTRPv2Sensitivity,'ctrpv2_cpd_sens_maxkil',wf);
+mat2csv(1,pmCTRPv2SensitivAUCrel,mtCTRPv2Sensitivity,'ctrpv2_cpd_sens_auc_rel',wf);
 mat2csv(1,pmGDSCv1SensitivZScor,mtGDSCv1Sensitivity,'gdscv1_cpd_sens_zscor',wf);
 mat2csv(1,pmGDSCv1SensitivIC50,mtGDSCv1Sensitivity,'gdscv1_cpd_sens_ic50',wf);
 mat2csv(1,pmGDSCv1SensitivAUC,mtGDSCv1Sensitivity,'gdscv1_cpd_sens_auc',wf);

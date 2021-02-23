@@ -46,6 +46,7 @@
  - [`data\ctrp\v10.D3.area_under_conc_curve.txt`](https://ctd2-data.nci.nih.gov/Public/Broad/CTRPv1.0_2013_pub_Cell_154_1151/CTRPv1.0_2013_pub_Cell_154_1151.zip)
  - [`data\ctrp\v20.meta.per_compound.txt`](https://ctd2-data.nci.nih.gov/Public/Broad/CTRPv2.0_2015_ctd2_ExpandedDataset/CTRPv2.0_2015_ctd2_ExpandedDataset.zip)
  - [`data\ctrp\v20.meta.per_cell_line.txt`](https://ctd2-data.nci.nih.gov/Public/Broad/CTRPv2.0_2015_ctd2_ExpandedDataset/CTRPv2.0_2015_ctd2_ExpandedDataset.zip)
+ - [`data\ctrp\v20.data.curves_post_qc.txt`](https://ctd2-data.nci.nih.gov/Public/Broad/CTRPv2.0_2015_ctd2_ExpandedDataset/CTRPv2.0_2015_ctd2_ExpandedDataset.zip)
  - [`data\ctrp\new-abs-auc-with-qc.txt`](https://github.com/remontoire-pac/ctrp-reference/blob/master/auc/new-abs-auc-with-qc.txt)
  - [`data\depmap\sanger-dose-response.csv`](https://depmap.org/portal/download/api/download/external?file_name=processed_portal_downloads%2Fgdsc-drug-set-export-658c.5%2Fsanger-dose-response.csv)
  - [`data\depmap\primary-screen-replicate-collapsed-logfold-change.csv`](https://ndownloader.figshare.com/files/20237709)
@@ -55,6 +56,7 @@
  - [`data\depmap\CCLE_expression.csv`](https://ndownloader.figshare.com/files/22897976)
  - [`data\depmap\total-proteome-_v2-normalized-protein-abundance.csv`](https://cds.team/taiga/dataset/total-proteome--5c50/2#)
  - [`data\depmap\CCLE_RPPA_20181003.csv`](https://depmap.org/portal/download/api/download/external?file_name=ccle%2Fccle_2019%2FCCLE_RPPA_20181003.csv)
+ - [`data\depmap\CCLE_metabolomics_20190502.csv`](https://depmap.org/portal/download/api/download?file_name=ccle%2Fccle_2019%2FCCLE_metabolomics_20190502.csv&bucket=depmap-external-downloads)
  - [`data\depmap\CCLE_gene_cn.csv`](https://ndownloader.figshare.com/files/22629107)
 
 #### 4. Output of ICE build (links to Figshare)
