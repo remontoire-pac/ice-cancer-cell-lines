@@ -59,7 +59,7 @@
  - [`data\depmap\CCLE_metabolomics_20190502.csv`](https://depmap.org/portal/download/api/download?file_name=ccle%2Fccle_2019%2FCCLE_metabolomics_20190502.csv&bucket=depmap-external-downloads)
  - [`data\depmap\CCLE_gene_cn.csv`](https://ndownloader.figshare.com/files/22629107)
 
-#### 4. Output of ICE build (links to Figshare)
+#### 4. Output of ICE build (links to Figshare; ZIP files there are now versioned by date)
 
 - [`CSV file data structure (platform-independent)`](https://figshare.com/s/37699d7af138e2b643c3)
 - [`MAT file data structure (MATLAB)`](https://figshare.com/s/ee840d9eb16d10ae7ab8)
