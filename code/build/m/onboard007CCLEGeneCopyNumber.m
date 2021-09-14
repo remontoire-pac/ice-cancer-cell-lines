@@ -58,5 +58,5 @@ assert(nnz(isnan(mtGeneCopyNumber.entrez_gene_id))==0, ...
 clear r*C so;
 
 %% write data and metadata variables to MAT file and CSV files
-save build\mat\ice007CCLEGeneCopyNumber.mat *GeneCopyNumber;
+save(['build' filesep 'mat' filesep 'ice007CCLEGeneCopyNumber.mat'],'*GeneCopyNumber');
 mat2csv(7,dmGeneCopyNumber,mtGeneCopyNumber,'gene_level_copy_number',wf);

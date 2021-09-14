@@ -52,5 +52,5 @@ mtProteinAbArray = mtProteinAbArray(:,[end 1:(end-1)]);
 clear r*C so;
 
 %% write data and metadata variables to MAT file and CSV files
-save build\mat\ice006MillsRPPAProteomics.mat *ProteinAbArray;
+save(['build' filesep 'mat' filesep 'ice006MillsRPPAProteomics.mat'],'*ProteinAbArray');
 mat2csv(6,dmProteinAbArray,mtProteinAbArray,'antibody_array_proteomics',wf);

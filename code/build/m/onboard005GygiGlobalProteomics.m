@@ -63,5 +63,5 @@ mtProteinMassSpec = mtProteinMassSpec(:,[end 1:(end-1)]);
 clear rnC rt* so;
 
 %% write data and metadata variables to MAT file and CSV files
-save build\mat\ice005GygiGlobalProteomics.mat *ProteinMassSpec;
+save(['build' filesep 'mat' filesep 'ice005GygiGlobalProteomics.mat'],'*ProteinMassSpec');
 mat2csv(5,dmProteinMassSpec,mtProteinMassSpec,'global_ms_proteomics',wf);

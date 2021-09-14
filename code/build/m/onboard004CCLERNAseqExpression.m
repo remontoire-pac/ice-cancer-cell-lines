@@ -56,5 +56,5 @@ assert(nnz(isnan(mtRNAseqExpression.entrez_gene_id))==0, ...
 clear rnC so;
 
 %% write data and metadata variables to MAT file and CSV files
-save build\mat\ice004CCLERNAseqExpression.mat *RNAseqExpression;
+save(['build' filesep 'mat' filesep 'ice004CCLERNAseqExpression.mat'],'*RNAseqExpression');
 mat2csv(4,dmRNAseqExpression,mtRNAseqExpression,'rnaseq_gene_expression',wf);

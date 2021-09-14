@@ -136,7 +136,7 @@ mtRePRISMSensitivity = tabridx(mtRePRISMSensitivity);
 clear CM* ncn* t*;
 
 %% write data and metadata variables to MAT file and CSV files
-save build\mat\ice001CompoundSensitivity.mat *Sensitiv*;
+save(['build' filesep 'mat' filesep 'ice001CompoundSensitivity.mat'],'*Sensitiv*');
 mat2csv(1,pmCTRPv1SensitivAUC,mtCTRPv1Sensitivity,'ctrpv1_cpd_sens_auc',wf);
 mat2csv(1,pmCTRPv2SensitivAUCabs,mtCTRPv2Sensitivity,'ctrpv2_cpd_sens_auc_abs',wf);
 mat2csv(1,pmCTRPv2SensitivL2EC50,mtCTRPv2Sensitivity,'ctrpv2_cpd_sens_l2ec50',wf);

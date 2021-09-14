@@ -51,9 +51,9 @@ mtCellLineName.priority_name(tct) = tmbn;
 clear tmxc tmid tmcn tmbn tct;
 
 %% write data and metadata variables to MAT file and CSV files
-save build\mat\ice000CellLineAnnotation.mat *CellLineAnno;
-save build\mat\ice000CellLineAnnotation.mat -append mtCellLineName;
-writetable(mtCellLineName,['build\csv\label\ice000.cols.cell_line_identity.' ...
+save(['build' filesep 'mat' filesep 'ice000CellLineAnnotation.mat'],'*CellLineAnno');
+save(['build' filesep 'mat' filesep 'ice000CellLineAnnotation.mat'],'-append','mtCellLineName');
+writetable(mtCellLineName,['build' filesep 'csv' filesep 'label' filesep 'ice000.cols.cell_line_identity.' ...
            num2str(size(mtCellLineName,1)) '.csv'],'FileType','text', ...
            'Delimiter',',','QuoteStrings',true,'WriteVariableNames',true);
 mat2csv(0,dbCellLineAnno,mtCellLineAnno,'cell_line_annotation',wf);
