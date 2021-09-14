@@ -65,6 +65,6 @@ assert(nnz(isnan(mtCRISPRAchilles.entrez_gene_id))==0, ...
 clear rnC so;
 
 %% write data and metadata variables to MAT file and CSV files
-save build\mat\ice002DepMapCRISPRAchilles.mat *CRISPR*;
+save(['build' filesep 'mat' filesep 'ice002DepMapCRISPRAchilles.mat'],'*CRISPR*');
 mat2csv(2,dmCRISPRGeneEffect,mtCRISPRAchilles,'crispr_gene_effect',wf);
 mat2csv(2,dmCRISPRDependency,mtCRISPRAchilles,'crispr_dependency',wf);

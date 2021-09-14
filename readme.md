@@ -18,7 +18,7 @@
 
 ##### To run an ICE build on a local copy of this repository, the `data` folder should be populated with downloaded data files (***see Section 3***), after which `build.m` *should* run to completion within about a kilosecond depending on the local system. After a build, the resulting `MAT` files should load within a few seconds.
 
-###### *At the moment, `MATLAB 2018b` is the only version of `MATLAB` explicitly tested with this code, and we note that `MATLAB 2020a` will* **not** *work due to changes in the built-in function `readtable.m` that we will address in a later revision of ICE.*
+###### *At the moment, `MATLAB 2018b` is the only version of `MATLAB` explicitly tested with this code, and we note that `MATLAB 2020a`+ versions above will* **not** *work due to changes in the built-in function `readtable.m` that we will address in a later revision of ICE.*
 
 ##### Each script saves output both as `MAT` files and as platform-independent `CSV` files, each representing both data matrices (as sparse triples in the `CSV` files) and rich metadata tables describing row or column entities. Filenaming is controlled to reflect both semantic content and the "shape" of data: for matrices, the numbers of rows and columns; for metadata tables, the number of records.
 
@@ -48,7 +48,8 @@
  - [`data\ctrp\v20.meta.per_cell_line.txt`](https://ctd2-data.nci.nih.gov/Public/Broad/CTRPv2.0_2015_ctd2_ExpandedDataset/CTRPv2.0_2015_ctd2_ExpandedDataset.zip)
  - [`data\ctrp\v20.data.curves_post_qc.txt`](https://ctd2-data.nci.nih.gov/Public/Broad/CTRPv2.0_2015_ctd2_ExpandedDataset/CTRPv2.0_2015_ctd2_ExpandedDataset.zip)
  - [`data\ctrp\new-abs-auc-with-qc.txt`](https://github.com/remontoire-pac/ctrp-reference/blob/master/auc/new-abs-auc-with-qc.txt)
- - [`data\depmap\sanger-dose-response.csv`](https://depmap.org/portal/download/api/download/external?file_name=processed_portal_downloads%2Fgdsc-drug-set-export-658c.5%2Fsanger-dose-response.csv)
+ - [`data\depmap\sanger-dose-response.csv`](
+     https://depmap.org/portal/download/api/download?file_name=processed_portal_downloads%2Fgdsc-drug-set-export-658c.5%2Fsanger-dose-response.csv&bucket=depmap-external-downloads)
  - [`data\depmap\primary-screen-replicate-collapsed-logfold-change.csv`](https://ndownloader.figshare.com/files/20237709)
  - [`data\depmap\Achilles_gene_effect.csv`](https://ndownloader.figshare.com/files/22629068)
  - [`data\depmap\Achilles_gene_dependency.csv`](https://ndownloader.figshare.com/files/22629071)

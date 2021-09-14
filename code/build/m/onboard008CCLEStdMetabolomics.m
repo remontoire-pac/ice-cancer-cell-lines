@@ -55,5 +55,5 @@ mtMetaboliteMassSpec = mtMetaboliteMassSpec(:,[end 1:(end-1)]);
 clear rnC so;
 
 %% write data and metadata variables to MAT file and CSV files
-save build\mat\ice008CCLEStdMetabolomics.mat *MetaboliteMassSpec;
+save(['build' filesep 'mat' filesep 'ice008CCLEStdMetabolomics.mat'],'*MetaboliteMassSpec');
 mat2csv(8,dmMetaboliteMassSpec,mtMetaboliteMassSpec,'std_ms_metabolomics',wf);

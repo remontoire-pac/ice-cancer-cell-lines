@@ -54,5 +54,5 @@ assert(isequal(count(mtRNAiAchilles.gene_symbol,'&'), ...
 clear rnC so;
 
 %% write data and metadata variables to MAT file and CSV files
-save build\mat\ice003DepMapRNAiAchilles.mat *RNAiAchilles;
+save(['build' filesep 'mat' filesep 'ice003DepMapRNAiAchilles.mat'],'*RNAiAchilles');
 mat2csv(3,dmRNAiAchilles,mtRNAiAchilles,'rnai_gene_dependency',wf);
