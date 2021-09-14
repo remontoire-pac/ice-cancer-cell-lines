@@ -1,2 +1,4 @@
-# ignore data folder:
+# ignore data folders:
 /data/**
+/build/csv/**
+/build/mat/**
